@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkplaybook=self.webpackChunkplaybook||[]).push([[3093],{3341:o=>{o.exports=JSON.parse('{"permalink":"/alsys_admin_playbook_menu_cards/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
