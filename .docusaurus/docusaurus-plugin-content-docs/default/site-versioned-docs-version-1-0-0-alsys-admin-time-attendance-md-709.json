@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Alsys Admin/Time & Attendance",
+  "id": "version-1.0.0/Alsys Admin/Time & Attendance",
+  "title": "Time & Attendance",
+  "description": "What is Time & Attendance",
+  "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Time & Attendance.md",
+  "sourceDirName": "Alsys Admin",
+  "slug": "/Alsys Admin/Time & Attendance",
+  "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Time & Attendance",
+  "draft": false,
+  "tags": [],
+  "version": "1.0.0",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Induction",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Induction"
+  },
+  "next": {
+    "title": "Organization",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Organization"
+  }
+}

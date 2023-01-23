@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Alsys Admin/User management",
+  "id": "Alsys Admin/User management",
+  "title": "User management",
+  "description": "How to use the app to effectively manage your users.",
+  "source": "@site/docs/Alsys Admin/User management.md",
+  "sourceDirName": "Alsys Admin",
+  "slug": "/Alsys Admin/User management",
+  "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/User management",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guide to Alsys Admin application",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Guide to Alsys Admin application"
+  },
+  "next": {
+    "title": "Health",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Health"
+  }
+}

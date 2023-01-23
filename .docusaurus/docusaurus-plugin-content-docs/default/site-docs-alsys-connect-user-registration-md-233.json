@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Alsys Connect/User Registration",
+  "id": "Alsys Connect/User Registration",
+  "title": "User Registration",
+  "description": "Know your customer (KYC)",
+  "source": "@site/docs/Alsys Connect/User Registration.md",
+  "sourceDirName": "Alsys Connect",
+  "slug": "/Alsys Connect/User Registration",
+  "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/User Registration",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Guide to Mobile Application",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Guide to Mobile Application"
+  },
+  "next": {
+    "title": "User Profile",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/User Profile"
+  }
+}

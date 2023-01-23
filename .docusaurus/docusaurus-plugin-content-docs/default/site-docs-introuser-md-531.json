@@ -1,0 +1,19 @@
+{
+  "unversionedId": "introuser",
+  "id": "introuser",
+  "title": "Alsys Connect",
+  "description": "",
+  "source": "@site/docs/introuser.md",
+  "sourceDirName": ".",
+  "slug": "/introuser",
+  "permalink": "/alsys_admin_playbook/docs/next/introuser",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "displayed_sidebar": "userapp"
+  },
+  "sidebar": "userapp"
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Alsys Admin/Organization",
+  "id": "Alsys Admin/Organization",
+  "title": "Organization",
+  "description": "What is an organization",
+  "source": "@site/docs/Alsys Admin/Organization.md",
+  "sourceDirName": "Alsys Admin",
+  "slug": "/Alsys Admin/Organization",
+  "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Organization",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Time & Attendance",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Time & Attendance"
+  },
+  "next": {
+    "title": "Alsys Connect",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/next/category/alsys-connect"
+  }
+}

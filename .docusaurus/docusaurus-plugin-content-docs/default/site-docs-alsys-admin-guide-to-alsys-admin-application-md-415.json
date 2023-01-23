@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Alsys Admin/Guide to Alsys Admin application",
+  "id": "Alsys Admin/Guide to Alsys Admin application",
+  "title": "Guide to Alsys Admin application",
+  "description": "Getting started on Alsys Admn tablet app",
+  "source": "@site/docs/Alsys Admin/Guide to Alsys Admin application.md",
+  "sourceDirName": "Alsys Admin",
+  "slug": "/Alsys Admin/Guide to Alsys Admin application",
+  "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Guide to Alsys Admin application",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Alsys Admin",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/next/category/alsys-admin"
+  },
+  "next": {
+    "title": "User management",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/User management"
+  }
+}

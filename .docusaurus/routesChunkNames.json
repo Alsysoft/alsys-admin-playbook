@@ -1,0 +1,311 @@
+{
+  "/alsys_admin_playbook_menu_cards/blog-ce3": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "4a75438d"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "ac14e35f"
+  },
+  "/alsys_admin_playbook_menu_cards/blog/archive-d3b": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "4a75438d"
+    },
+    "archive": "cac91e81"
+  },
+  "/alsys_admin_playbook_menu_cards/blog/first-blog-post-c8b": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "4a75438d"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/alsys_admin_playbook_menu_cards/blog/long-blog-post-a6e": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "4a75438d"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/alsys_admin_playbook_menu_cards/blog/mdx-blog-post-69c": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "4a75438d"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/alsys_admin_playbook_menu_cards/blog/tags-724": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "4a75438d"
+    },
+    "sidebar": "814f3328",
+    "tags": "4f2c3dce"
+  },
+  "/alsys_admin_playbook_menu_cards/blog/tags/docusaurus-180": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "4a75438d"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "87662eb7",
+    "listMetadata": "18033cf2"
+  },
+  "/alsys_admin_playbook_menu_cards/blog/tags/facebook-f45": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "4a75438d"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "54794b10",
+    "listMetadata": "553e8e29"
+  },
+  "/alsys_admin_playbook_menu_cards/blog/tags/hello-acc": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "4a75438d"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "3025c59a",
+    "listMetadata": "6da5d5e7"
+  },
+  "/alsys_admin_playbook_menu_cards/blog/tags/hola-326": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "4a75438d"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "a89f0c27",
+    "listMetadata": "f499925a"
+  },
+  "/alsys_admin_playbook_menu_cards/blog/welcome-d76": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "4a75438d"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/alsys_admin_playbook_menu_cards/markdown-page-5ae": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "3400eae8"
+    },
+    "content": "393be207"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next-702": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "dc5dae2b"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Guide to Alsys Admin application-123": {
+    "__comp": "17896441",
+    "content": "415727bd"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Health-26f": {
+    "__comp": "17896441",
+    "content": "7f2f30f3"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Induction-d3d": {
+    "__comp": "17896441",
+    "content": "ec9ceeaa"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Newsfeed-b14": {
+    "__comp": "17896441",
+    "content": "a638dad4"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Organization-826": {
+    "__comp": "17896441",
+    "content": "00c9ffdf"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Time & Attendance-298": {
+    "__comp": "17896441",
+    "content": "c38f57ac"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/User management-325": {
+    "__comp": "17896441",
+    "content": "55a1e6c3"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Guide to Mobile Application-f0b": {
+    "__comp": "17896441",
+    "content": "7e258456"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Health-5f9": {
+    "__comp": "17896441",
+    "content": "05ebfc0c"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Home-4a0": {
+    "__comp": "17896441",
+    "content": "ebae28b3"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Induction-98e": {
+    "__comp": "17896441",
+    "content": "28bf9710"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Newsfeed-b16": {
+    "__comp": "17896441",
+    "content": "e0c9035e"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Settings-d77": {
+    "__comp": "17896441",
+    "content": "f52fb0ec"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/User Profile-2b9": {
+    "__comp": "17896441",
+    "content": "6d6fb5f6"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/User Registration-4e7": {
+    "__comp": "17896441",
+    "content": "23323cd6"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/category/alsys-admin-13a": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "f2299777"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/category/alsys-connect-b7c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "8584d406"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/next/intro-247": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/alsys_admin_playbook_menu_cards/docs-698": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "dc5dae2b"
+    },
+    "versionMetadata": "62e81aa6"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Guide to Alsys Admin application-0dd": {
+    "__comp": "17896441",
+    "content": "e65d43dc"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Health-d1a": {
+    "__comp": "17896441",
+    "content": "12cdcd22"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Induction-cad": {
+    "__comp": "17896441",
+    "content": "04a9067b"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Newsfeed-195": {
+    "__comp": "17896441",
+    "content": "0c11356a"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Organization-b24": {
+    "__comp": "17896441",
+    "content": "35686c81"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Time & Attendance-17d": {
+    "__comp": "17896441",
+    "content": "7096fada"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/User management-b31": {
+    "__comp": "17896441",
+    "content": "79699b11"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Guide to Mobile Application-200": {
+    "__comp": "17896441",
+    "content": "d350b487"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Health-8c9": {
+    "__comp": "17896441",
+    "content": "7382017a"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Home-cec": {
+    "__comp": "17896441",
+    "content": "725d8e9c"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Induction-c6d": {
+    "__comp": "17896441",
+    "content": "ccefcf8a"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Newsfeed-db2": {
+    "__comp": "17896441",
+    "content": "0b326664"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Settings-e17": {
+    "__comp": "17896441",
+    "content": "6a7e6616"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/User Profile-d25": {
+    "__comp": "17896441",
+    "content": "4ae66fc6"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/User Registration-cd8": {
+    "__comp": "17896441",
+    "content": "2651d90f"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/category/alsys-admin-85c": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "764458b2"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/category/alsys-connect-e1f": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "58126d92"
+  },
+  "/alsys_admin_playbook_menu_cards/docs/intro-8d5": {
+    "__comp": "17896441",
+    "content": "5d94dea0"
+  },
+  "/alsys_admin_playbook_menu_cards/-d1b": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "3400eae8"
+    },
+    "config": "5e9f5e1a"
+  }
+}

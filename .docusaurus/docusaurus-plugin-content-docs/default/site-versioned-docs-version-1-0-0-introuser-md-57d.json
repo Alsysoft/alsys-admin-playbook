@@ -1,0 +1,19 @@
+{
+  "unversionedId": "introuser",
+  "id": "version-1.0.0/introuser",
+  "title": "Introduction",
+  "description": "Remote onboarding, Health & Safety and Personnel Management",
+  "source": "@site/versioned_docs/version-1.0.0/introuser.md",
+  "sourceDirName": ".",
+  "slug": "/introuser",
+  "permalink": "/alsys_admin_playbook/docs/introuser",
+  "draft": false,
+  "tags": [],
+  "version": "1.0.0",
+  "sidebarPosition": 0,
+  "frontMatter": {
+    "sidebar_position": 0,
+    "displayed_sidebar": "userapp"
+  },
+  "sidebar": "userapp"
+}

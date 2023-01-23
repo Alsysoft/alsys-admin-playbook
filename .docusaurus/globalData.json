@@ -1,0 +1,226 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/alsys_admin_playbook_menu_cards/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": false,
+          "path": "/alsys_admin_playbook_menu_cards/docs/next",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Alsys Admin/Guide to Alsys Admin application",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Guide to Alsys Admin application",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Admin/Health",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Health",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Admin/Induction",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Induction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Admin/Newsfeed",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Newsfeed",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Admin/Organization",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Organization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Admin/Time & Attendance",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Time & Attendance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Admin/User management",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/User management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/Guide to Mobile Application",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Guide to Mobile Application",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/Health",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Health",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/Home",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Home",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/Induction",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Induction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/Newsfeed",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Newsfeed",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/Settings",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Settings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/User Profile",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/User Profile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/User Registration",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/User Registration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/alsys-admin",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/category/alsys-admin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/alsys-connect",
+              "path": "/alsys_admin_playbook_menu_cards/docs/next/category/alsys-connect",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/alsys_admin_playbook_menu_cards/docs/next/intro",
+                "label": "intro"
+              }
+            }
+          }
+        },
+        {
+          "name": "1.0.0",
+          "label": "1.0.0",
+          "isLast": true,
+          "path": "/alsys_admin_playbook_menu_cards/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Alsys Admin/Guide to Alsys Admin application",
+              "path": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Guide to Alsys Admin application",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Admin/Health",
+              "path": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Health",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Admin/Induction",
+              "path": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Induction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Admin/Newsfeed",
+              "path": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Newsfeed",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Admin/Organization",
+              "path": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Organization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Admin/Time & Attendance",
+              "path": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Time & Attendance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Admin/User management",
+              "path": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/User management",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/Guide to Mobile Application",
+              "path": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Guide to Mobile Application",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/Health",
+              "path": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Health",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/Home",
+              "path": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Home",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/Induction",
+              "path": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Induction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/Newsfeed",
+              "path": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Newsfeed",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/Settings",
+              "path": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Settings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/User Profile",
+              "path": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/User Profile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alsys Connect/User Registration",
+              "path": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/User Registration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/alsys_admin_playbook_menu_cards/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/alsys-admin",
+              "path": "/alsys_admin_playbook_menu_cards/docs/category/alsys-admin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/alsys-connect",
+              "path": "/alsys_admin_playbook_menu_cards/docs/category/alsys-connect",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/alsys_admin_playbook_menu_cards/docs/intro",
+                "label": "version-1.0.0/intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

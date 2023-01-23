@@ -1,0 +1,22 @@
+{
+  "unversionedId": "Alsys Connect/Settings",
+  "id": "version-1.0.0/Alsys Connect/Settings",
+  "title": "Settings",
+  "description": "1. Reach the \"Settings\" screen from the navigation drawer.",
+  "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/Settings.md",
+  "sourceDirName": "Alsys Connect",
+  "slug": "/Alsys Connect/Settings",
+  "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Settings",
+  "draft": false,
+  "tags": [],
+  "version": "1.0.0",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Induction",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Induction"
+  }
+}

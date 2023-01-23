@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Alsys Admin/Induction",
+  "id": "Alsys Admin/Induction",
+  "title": "Induction",
+  "description": "General Induction",
+  "source": "@site/docs/Alsys Admin/Induction.md",
+  "sourceDirName": "Alsys Admin",
+  "slug": "/Alsys Admin/Induction",
+  "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Induction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Newsfeed",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Newsfeed"
+  },
+  "next": {
+    "title": "Time & Attendance",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Time & Attendance"
+  }
+}

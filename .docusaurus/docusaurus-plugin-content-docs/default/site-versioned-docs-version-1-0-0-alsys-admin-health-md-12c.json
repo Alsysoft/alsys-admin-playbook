@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Alsys Admin/Health",
+  "id": "version-1.0.0/Alsys Admin/Health",
+  "title": "Health",
+  "description": "How to set up the Health section",
+  "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Health.md",
+  "sourceDirName": "Alsys Admin",
+  "slug": "/Alsys Admin/Health",
+  "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Health",
+  "draft": false,
+  "tags": [],
+  "version": "1.0.0",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User management",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/User management"
+  },
+  "next": {
+    "title": "Newsfeed",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Newsfeed"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Alsys Admin/Newsfeed",
+  "id": "version-1.0.0/Alsys Admin/Newsfeed",
+  "title": "Newsfeed",
+  "description": "Newsfeed posts categories",
+  "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Newsfeed.md",
+  "sourceDirName": "Alsys Admin",
+  "slug": "/Alsys Admin/Newsfeed",
+  "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Newsfeed",
+  "draft": false,
+  "tags": [],
+  "version": "1.0.0",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Health",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Health"
+  },
+  "next": {
+    "title": "Induction",
+    "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Induction"
+  }
+}
