@@ -938,7 +938,8 @@
               "version": "1.0.0",
               "sidebarPosition": 0,
               "frontMatter": {
-                "sidebar_position": 0
+                "sidebar_position": 0,
+                "hide_table_of_contents": true
               },
               "sidebar": "tutorialSidebar",
               "next": {
@@ -991,7 +992,6 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "description",
                   "slug": "/category/alsys-admin",
                   "permalink": "/alsys_admin_cards/docs/category/alsys-admin"
                 }
@@ -1037,7 +1037,6 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "description should not appear. report this.",
                   "slug": "/category/alsys-connect",
                   "permalink": "/alsys_admin_cards/docs/category/alsys-connect"
                 }

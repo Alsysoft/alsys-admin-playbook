@@ -1,311 +1,354 @@
 {
-  "/alsys_admin_cards/blog-d57": {
-    "__comp": "a6aa9e1f",
+  "/alsys_admin_cards/__docusaurus/debug-240": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "4a75438d"
+      "plugin": "plugin---alsys-admin-cards-docusaurus-debuge-0-f-300"
+    }
+  },
+  "/alsys_admin_cards/__docusaurus/debug/config-1dc": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---alsys-admin-cards-docusaurus-debuge-0-f-300"
+    }
+  },
+  "/alsys_admin_cards/__docusaurus/debug/content-41e": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---alsys-admin-cards-docusaurus-debuge-0-f-300"
     },
-    "sidebar": "814f3328",
+    "allContent": "allContent---alsys-admin-cards-docusaurus-debug-content-246-07f"
+  },
+  "/alsys_admin_cards/__docusaurus/debug/globalData-f55": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---alsys-admin-cards-docusaurus-debuge-0-f-300"
+    }
+  },
+  "/alsys_admin_cards/__docusaurus/debug/metadata-bff": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---alsys-admin-cards-docusaurus-debuge-0-f-300"
+    }
+  },
+  "/alsys_admin_cards/__docusaurus/debug/registry-0dc": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---alsys-admin-cards-docusaurus-debuge-0-f-300"
+    }
+  },
+  "/alsys_admin_cards/__docusaurus/debug/routes-684": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---alsys-admin-cards-docusaurus-debuge-0-f-300"
+    }
+  },
+  "/alsys_admin_cards/blog-d57": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---alsys-admin-cards-blog-4-a-7-1f0"
+    },
+    "sidebar": "sidebar---alsys-admin-cards-blog-814-5f2",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---alsys-admin-cards-blog-766-4b5"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---alsys-admin-cards-blogf-4-f-846"
       },
       {
-        "content": "8717b14a"
+        "content": "content---alsys-admin-cards-blog-871-ca7"
       },
       {
-        "content": "925b3f96"
+        "content": "content---alsys-admin-cards-blog-925-64c"
       }
     ],
-    "metadata": "85739e9a"
+    "metadata": "metadata---alsys-admin-cards-blog-857-bcf"
   },
   "/alsys_admin_cards/blog/archive-979": {
-    "__comp": "9e4087bc",
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "4a75438d"
+      "plugin": "plugin---alsys-admin-cards-blog-4-a-7-1f0"
     },
-    "archive": "7d8accf2"
+    "archive": "archive---alsys-admin-cards-blog-archive-7-d-8-0b0"
   },
   "/alsys_admin_cards/blog/first-blog-post-7a8": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "4a75438d"
+      "plugin": "plugin---alsys-admin-cards-blog-4-a-7-1f0"
     },
-    "sidebar": "814f3328",
-    "content": "e273c56f"
+    "sidebar": "sidebar---alsys-admin-cards-blog-814-5f2",
+    "content": "content---alsys-admin-cards-blog-first-blog-poste-27-cc0"
   },
   "/alsys_admin_cards/blog/long-blog-post-5e5": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "4a75438d"
+      "plugin": "plugin---alsys-admin-cards-blog-4-a-7-1f0"
     },
-    "sidebar": "814f3328",
-    "content": "73664a40"
+    "sidebar": "sidebar---alsys-admin-cards-blog-814-5f2",
+    "content": "content---alsys-admin-cards-blog-long-blog-post-736-74c"
   },
   "/alsys_admin_cards/blog/mdx-blog-post-a7a": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "4a75438d"
+      "plugin": "plugin---alsys-admin-cards-blog-4-a-7-1f0"
     },
-    "sidebar": "814f3328",
-    "content": "59362658"
+    "sidebar": "sidebar---alsys-admin-cards-blog-814-5f2",
+    "content": "content---alsys-admin-cards-blog-mdx-blog-post-593-3db"
   },
   "/alsys_admin_cards/blog/tags-1e4": {
-    "__comp": "01a85c17",
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "4a75438d"
+      "plugin": "plugin---alsys-admin-cards-blog-4-a-7-1f0"
     },
-    "sidebar": "814f3328",
-    "tags": "d4c32628"
+    "sidebar": "sidebar---alsys-admin-cards-blog-814-5f2",
+    "tags": "tags---alsys-admin-cards-blog-tagsd-4-c-2be"
   },
   "/alsys_admin_cards/blog/tags/docusaurus-6b7": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "4a75438d"
+      "plugin": "plugin---alsys-admin-cards-blog-4-a-7-1f0"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---alsys-admin-cards-blog-814-5f2",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---alsys-admin-cards-blog-766-4b5"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---alsys-admin-cards-blogf-4-f-846"
       },
       {
-        "content": "8717b14a"
+        "content": "content---alsys-admin-cards-blog-871-ca7"
       },
       {
-        "content": "925b3f96"
+        "content": "content---alsys-admin-cards-blog-925-64c"
       }
     ],
-    "tag": "6c4d0ae0",
-    "listMetadata": "6058472f"
+    "tag": "tag---alsys-admin-cards-blog-tags-docusaurus-6-c-4-a82",
+    "listMetadata": "listMetadata---alsys-admin-cards-blog-tags-docusaurus-605-2f9"
   },
   "/alsys_admin_cards/blog/tags/facebook-812": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "4a75438d"
+      "plugin": "plugin---alsys-admin-cards-blog-4-a-7-1f0"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---alsys-admin-cards-blog-814-5f2",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---alsys-admin-cards-blog-766-4b5"
       }
     ],
-    "tag": "3f79aed8",
-    "listMetadata": "6384f068"
+    "tag": "tag---alsys-admin-cards-blog-tags-facebook-3-f-7-ab9",
+    "listMetadata": "listMetadata---alsys-admin-cards-blog-tags-facebook-638-a9d"
   },
   "/alsys_admin_cards/blog/tags/hello-196": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "4a75438d"
+      "plugin": "plugin---alsys-admin-cards-blog-4-a-7-1f0"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---alsys-admin-cards-blog-814-5f2",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---alsys-admin-cards-blog-766-4b5"
       },
       {
-        "content": "8717b14a"
+        "content": "content---alsys-admin-cards-blog-871-ca7"
       }
     ],
-    "tag": "261eca58",
-    "listMetadata": "141c3258"
+    "tag": "tag---alsys-admin-cards-blog-tags-hello-261-48c",
+    "listMetadata": "listMetadata---alsys-admin-cards-blog-tags-hello-141-b52"
   },
   "/alsys_admin_cards/blog/tags/hola-055": {
-    "__comp": "6875c492",
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "4a75438d"
+      "plugin": "plugin---alsys-admin-cards-blog-4-a-7-1f0"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---alsys-admin-cards-blog-814-5f2",
     "items": [
       {
-        "content": "925b3f96"
+        "content": "content---alsys-admin-cards-blog-925-64c"
       }
     ],
-    "tag": "c2616adc",
-    "listMetadata": "e6856333"
+    "tag": "tag---alsys-admin-cards-blog-tags-holac-26-ceb",
+    "listMetadata": "listMetadata---alsys-admin-cards-blog-tags-holae-68-0b8"
   },
   "/alsys_admin_cards/blog/welcome-d5a": {
-    "__comp": "ccc49370",
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "4a75438d"
+      "plugin": "plugin---alsys-admin-cards-blog-4-a-7-1f0"
     },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
+    "sidebar": "sidebar---alsys-admin-cards-blog-814-5f2",
+    "content": "content---alsys-admin-cards-blog-welcomed-9-f-659"
   },
   "/alsys_admin_cards/markdown-page-cb7": {
-    "__comp": "1f391b9e",
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "3400eae8"
+      "plugin": "plugin---alsys-admin-cards-markdown-page-340-14b"
     },
-    "content": "393be207"
+    "content": "content---alsys-admin-cards-markdown-page-393-eea"
   },
   "/alsys_admin_cards/docs/next-517": {
-    "__comp": "1be78505",
+    "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "dc5dae2b"
+      "plugin": "plugin---alsys-admin-cards-docs-nextdc-5-8c6"
     },
-    "versionMetadata": "935f2afb"
+    "versionMetadata": "versionMetadata---alsys-admin-cards-docs-next-935-5aa"
   },
   "/alsys_admin_cards/docs/next/Alsys Admin/Guide to Alsys Admin application-f47": {
-    "__comp": "17896441",
-    "content": "415727bd"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-alsys-admin-guide-to-alsys-admin-application-415-3bd"
   },
   "/alsys_admin_cards/docs/next/Alsys Admin/Health-10a": {
-    "__comp": "17896441",
-    "content": "7f2f30f3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-alsys-admin-health-7-f-2-ced"
   },
   "/alsys_admin_cards/docs/next/Alsys Admin/Induction-57b": {
-    "__comp": "17896441",
-    "content": "ec9ceeaa"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-alsys-admin-inductionec-9-40d"
   },
   "/alsys_admin_cards/docs/next/Alsys Admin/Newsfeed-2d7": {
-    "__comp": "17896441",
-    "content": "a638dad4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-alsys-admin-newsfeeda-63-4fa"
   },
   "/alsys_admin_cards/docs/next/Alsys Admin/Organization-046": {
-    "__comp": "17896441",
-    "content": "00c9ffdf"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-alsys-admin-organization-00-c-644"
   },
   "/alsys_admin_cards/docs/next/Alsys Admin/Time & Attendance-625": {
-    "__comp": "17896441",
-    "content": "c38f57ac"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-alsys-admin-time-attendancec-38-3a0"
   },
   "/alsys_admin_cards/docs/next/Alsys Admin/User management-615": {
-    "__comp": "17896441",
-    "content": "55a1e6c3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-alsys-admin-user-management-55-a-32d"
   },
   "/alsys_admin_cards/docs/next/Alsys Connect/Guide to Mobile Application-2e9": {
-    "__comp": "17896441",
-    "content": "7e258456"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-alsys-connect-guide-to-mobile-application-7-e-2-1f1"
   },
   "/alsys_admin_cards/docs/next/Alsys Connect/Health-040": {
-    "__comp": "17896441",
-    "content": "05ebfc0c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-alsys-connect-health-05-e-441"
   },
   "/alsys_admin_cards/docs/next/Alsys Connect/Home-f0b": {
-    "__comp": "17896441",
-    "content": "ebae28b3"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-alsys-connect-homeeba-b09"
   },
   "/alsys_admin_cards/docs/next/Alsys Connect/Induction-62d": {
-    "__comp": "17896441",
-    "content": "28bf9710"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-alsys-connect-induction-28-b-152"
   },
   "/alsys_admin_cards/docs/next/Alsys Connect/Newsfeed-f92": {
-    "__comp": "17896441",
-    "content": "e0c9035e"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-alsys-connect-newsfeede-0-c-74b"
   },
   "/alsys_admin_cards/docs/next/Alsys Connect/Settings-93b": {
-    "__comp": "17896441",
-    "content": "f52fb0ec"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-alsys-connect-settingsf-52-166"
   },
   "/alsys_admin_cards/docs/next/Alsys Connect/User Profile-c1c": {
-    "__comp": "17896441",
-    "content": "6d6fb5f6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-alsys-connect-user-profile-6-d-6-e83"
   },
   "/alsys_admin_cards/docs/next/Alsys Connect/User Registration-72e": {
-    "__comp": "17896441",
-    "content": "23323cd6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-alsys-connect-user-registration-233-327"
   },
   "/alsys_admin_cards/docs/next/category/alsys-admin-0fc": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "37b89894"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---alsys-admin-cards-docs-next-category-alsys-admin-37-b-496"
   },
   "/alsys_admin_cards/docs/next/category/alsys-connect-c4f": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "ed88872a"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---alsys-admin-cards-docs-next-category-alsys-connected-8-f0d"
   },
   "/alsys_admin_cards/docs/next/intro-b7a": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-next-intro-0-e-3-e8b"
   },
   "/alsys_admin_cards/docs-23b": {
-    "__comp": "1be78505",
+    "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "dc5dae2b"
+      "plugin": "plugin---alsys-admin-cards-docs-nextdc-5-8c6"
     },
-    "versionMetadata": "62e81aa6"
+    "versionMetadata": "versionMetadata---alsys-admin-cards-docs-62-e-a9b"
   },
   "/alsys_admin_cards/docs/Alsys Admin/Guide to Alsys Admin application-524": {
-    "__comp": "17896441",
-    "content": "e65d43dc"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-alsys-admin-guide-to-alsys-admin-applicatione-65-6fd"
   },
   "/alsys_admin_cards/docs/Alsys Admin/Health-b74": {
-    "__comp": "17896441",
-    "content": "12cdcd22"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-alsys-admin-health-12-c-781"
   },
   "/alsys_admin_cards/docs/Alsys Admin/Induction-6b4": {
-    "__comp": "17896441",
-    "content": "04a9067b"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-alsys-admin-induction-04-a-aa5"
   },
   "/alsys_admin_cards/docs/Alsys Admin/Newsfeed-2e1": {
-    "__comp": "17896441",
-    "content": "0c11356a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-alsys-admin-newsfeed-0-c-1-f58"
   },
   "/alsys_admin_cards/docs/Alsys Admin/Organization-6c7": {
-    "__comp": "17896441",
-    "content": "35686c81"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-alsys-admin-organization-356-b8f"
   },
   "/alsys_admin_cards/docs/Alsys Admin/Time & Attendance-603": {
-    "__comp": "17896441",
-    "content": "7096fada"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-alsys-admin-time-attendance-709-341"
   },
   "/alsys_admin_cards/docs/Alsys Admin/User management-cd8": {
-    "__comp": "17896441",
-    "content": "79699b11"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-alsys-admin-user-management-796-4ae"
   },
   "/alsys_admin_cards/docs/Alsys Connect/Guide to Mobile Application-149": {
-    "__comp": "17896441",
-    "content": "d350b487"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-alsys-connect-guide-to-mobile-applicationd-35-f0e"
   },
   "/alsys_admin_cards/docs/Alsys Connect/Health-57b": {
-    "__comp": "17896441",
-    "content": "7382017a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-alsys-connect-health-738-da4"
   },
   "/alsys_admin_cards/docs/Alsys Connect/Home-8f0": {
-    "__comp": "17896441",
-    "content": "725d8e9c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-alsys-connect-home-725-2bf"
   },
   "/alsys_admin_cards/docs/Alsys Connect/Induction-75b": {
-    "__comp": "17896441",
-    "content": "ccefcf8a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-alsys-connect-inductioncce-79c"
   },
   "/alsys_admin_cards/docs/Alsys Connect/Newsfeed-e2f": {
-    "__comp": "17896441",
-    "content": "0b326664"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-alsys-connect-newsfeed-0-b-3-1c4"
   },
   "/alsys_admin_cards/docs/Alsys Connect/Settings-9d8": {
-    "__comp": "17896441",
-    "content": "6a7e6616"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-alsys-connect-settings-6-a-7-f81"
   },
   "/alsys_admin_cards/docs/Alsys Connect/User Profile-530": {
-    "__comp": "17896441",
-    "content": "4ae66fc6"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-alsys-connect-user-profile-4-ae-e7e"
   },
   "/alsys_admin_cards/docs/Alsys Connect/User Registration-7ab": {
-    "__comp": "17896441",
-    "content": "2651d90f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-alsys-connect-user-registration-265-b63"
   },
   "/alsys_admin_cards/docs/category/alsys-admin-d73": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "2aa541e3"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---alsys-admin-cards-docs-category-alsys-admin-2-aa-63a"
   },
   "/alsys_admin_cards/docs/category/alsys-connect-af1": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "722b606d"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---alsys-admin-cards-docs-category-alsys-connect-722-ba2"
   },
   "/alsys_admin_cards/docs/intro-a82": {
-    "__comp": "17896441",
-    "content": "5d94dea0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---alsys-admin-cards-docs-intro-5-d-9-764"
   },
   "/alsys_admin_cards/-bc8": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "3400eae8"
+      "plugin": "plugin---alsys-admin-cards-markdown-page-340-14b"
     },
-    "config": "5e9f5e1a"
+    "config": "config---alsys-admin-cards-5-e-9-352"
   }
 }
