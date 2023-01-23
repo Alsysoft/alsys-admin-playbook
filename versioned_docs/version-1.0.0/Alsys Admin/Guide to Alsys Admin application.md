@@ -50,5 +50,7 @@ import DASHBOARD from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/stati
 * Admin app for <b>iPadOS</b> requires a device running iPadOS 14.0 or later.
 * Admin app for <b>Android</b> requires a device running Android 9.0 and up.
 
-<font color="blue">Please note:</font> Any other mobile operating system that is not the standard version of Android OS is not supported; your device may run into compatibility issues with the Alsys mobile and tablet app.
+:::note
+Any other mobile operating system that is not the standard version of Android OS is not supported; your device may run into compatibility issues with the mobile and tablet app.
+:::
 
