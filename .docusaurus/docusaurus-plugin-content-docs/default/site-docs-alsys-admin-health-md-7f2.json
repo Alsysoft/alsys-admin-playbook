@@ -6,7 +6,7 @@
   "source": "@site/docs/Alsys Admin/Health.md",
   "sourceDirName": "Alsys Admin",
   "slug": "/Alsys Admin/Health",
-  "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Health",
+  "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Health",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "User management",
-    "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/User management"
+    "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/User management"
   },
   "next": {
     "title": "Newsfeed",
-    "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Newsfeed"
+    "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Newsfeed"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/alsys_admin_playbook_menu_cards/docs/next/intro",
+  "permalink": "/alsys_admin_cards/docs/next/intro",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Alsys Admin",
-    "permalink": "/alsys_admin_playbook_menu_cards/docs/next/category/alsys-admin"
+    "permalink": "/alsys_admin_cards/docs/next/category/alsys-admin"
   }
 }

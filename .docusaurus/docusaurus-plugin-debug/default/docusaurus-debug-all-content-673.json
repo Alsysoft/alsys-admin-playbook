@@ -9,8 +9,8 @@
           "badge": true,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/alsys_admin_playbook_menu_cards/docs/next",
-          "tagsPath": "/alsys_admin_playbook_menu_cards/docs/next/tags",
+          "path": "/alsys_admin_cards/docs/next",
+          "tagsPath": "/alsys_admin_cards/docs/next/tags",
           "isLast": false,
           "sidebarFilePath": "/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/sidebars.js",
           "contentPath": "/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/docs",
@@ -24,7 +24,7 @@
               "source": "@site/docs/Alsys Admin/Guide to Alsys Admin application.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Guide to Alsys Admin application",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Guide to Alsys Admin application",
+              "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Guide to Alsys Admin application",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -35,11 +35,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Alsys Admin",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/category/alsys-admin"
+                "permalink": "/alsys_admin_cards/docs/next/category/alsys-admin"
               },
               "next": {
                 "title": "User management",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/User management"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/User management"
               }
             },
             {
@@ -50,7 +50,7 @@
               "source": "@site/docs/Alsys Admin/Health.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Health",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Health",
+              "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Health",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -61,11 +61,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "User management",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/User management"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/User management"
               },
               "next": {
                 "title": "Newsfeed",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Newsfeed"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Newsfeed"
               }
             },
             {
@@ -76,7 +76,7 @@
               "source": "@site/docs/Alsys Admin/Induction.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Induction",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Induction",
+              "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Induction",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -87,11 +87,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Newsfeed",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Newsfeed"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Newsfeed"
               },
               "next": {
                 "title": "Time & Attendance",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Time & Attendance"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Time & Attendance"
               }
             },
             {
@@ -102,7 +102,7 @@
               "source": "@site/docs/Alsys Admin/Newsfeed.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Newsfeed",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Newsfeed",
+              "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Newsfeed",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -113,11 +113,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Health",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Health"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Health"
               },
               "next": {
                 "title": "Induction",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Induction"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Induction"
               }
             },
             {
@@ -128,7 +128,7 @@
               "source": "@site/docs/Alsys Admin/Organization.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Organization",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Organization",
+              "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Organization",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -139,11 +139,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Time & Attendance",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Time & Attendance"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Time & Attendance"
               },
               "next": {
                 "title": "Alsys Connect",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/category/alsys-connect"
+                "permalink": "/alsys_admin_cards/docs/next/category/alsys-connect"
               }
             },
             {
@@ -154,7 +154,7 @@
               "source": "@site/docs/Alsys Admin/Time & Attendance.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Time & Attendance",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Time & Attendance",
+              "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Time & Attendance",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -165,11 +165,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Induction",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Induction"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Induction"
               },
               "next": {
                 "title": "Organization",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Organization"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Organization"
               }
             },
             {
@@ -180,7 +180,7 @@
               "source": "@site/docs/Alsys Admin/User management.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/User management",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/User management",
+              "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/User management",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -191,11 +191,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Guide to Alsys Admin application",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Guide to Alsys Admin application"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Guide to Alsys Admin application"
               },
               "next": {
                 "title": "Health",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Admin/Health"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Health"
               }
             },
             {
@@ -206,7 +206,7 @@
               "source": "@site/docs/Alsys Connect/Guide to Mobile Application.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Guide to Mobile Application",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Guide to Mobile Application",
+              "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Guide to Mobile Application",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -217,11 +217,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Alsys Connect",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/category/alsys-connect"
+                "permalink": "/alsys_admin_cards/docs/next/category/alsys-connect"
               },
               "next": {
                 "title": "User Registration",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/User Registration"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/User Registration"
               }
             },
             {
@@ -232,7 +232,7 @@
               "source": "@site/docs/Alsys Connect/Health.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Health",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Health",
+              "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Health",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -243,11 +243,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Home",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Home"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Home"
               },
               "next": {
                 "title": "Newsfeed",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Newsfeed"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Newsfeed"
               }
             },
             {
@@ -258,7 +258,7 @@
               "source": "@site/docs/Alsys Connect/Home.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Home",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Home",
+              "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Home",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -269,11 +269,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "User Profile",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/User Profile"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/User Profile"
               },
               "next": {
                 "title": "Health",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Health"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Health"
               }
             },
             {
@@ -284,7 +284,7 @@
               "source": "@site/docs/Alsys Connect/Induction.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Induction",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Induction",
+              "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Induction",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -295,11 +295,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Newsfeed",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Newsfeed"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Newsfeed"
               },
               "next": {
                 "title": "Settings",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Settings"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Settings"
               }
             },
             {
@@ -310,7 +310,7 @@
               "source": "@site/docs/Alsys Connect/Newsfeed.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Newsfeed",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Newsfeed",
+              "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Newsfeed",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -321,11 +321,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Health",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Health"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Health"
               },
               "next": {
                 "title": "Induction",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Induction"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Induction"
               }
             },
             {
@@ -336,7 +336,7 @@
               "source": "@site/docs/Alsys Connect/Settings.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Settings",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Settings",
+              "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Settings",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -347,7 +347,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Induction",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Induction"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Induction"
               }
             },
             {
@@ -358,7 +358,7 @@
               "source": "@site/docs/Alsys Connect/User Profile.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/User Profile",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/User Profile",
+              "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/User Profile",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -369,11 +369,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "User Registration",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/User Registration"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/User Registration"
               },
               "next": {
                 "title": "Home",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Home"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Home"
               }
             },
             {
@@ -384,7 +384,7 @@
               "source": "@site/docs/Alsys Connect/User Registration.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/User Registration",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/User Registration",
+              "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/User Registration",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -395,11 +395,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Guide to Mobile Application",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Guide to Mobile Application"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Guide to Mobile Application"
               },
               "next": {
                 "title": "User Profile",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/User Profile"
+                "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/User Profile"
               }
             },
             {
@@ -410,7 +410,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/next/intro",
+              "permalink": "/alsys_admin_cards/docs/next/intro",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -421,7 +421,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Alsys Admin",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/next/category/alsys-admin"
+                "permalink": "/alsys_admin_cards/docs/next/category/alsys-admin"
               }
             }
           ],
@@ -471,7 +471,7 @@
                   "type": "generated-index",
                   "description": "description",
                   "slug": "/category/alsys-admin",
-                  "permalink": "/alsys_admin_playbook_menu_cards/docs/next/category/alsys-admin"
+                  "permalink": "/alsys_admin_cards/docs/next/category/alsys-admin"
                 }
               },
               {
@@ -517,7 +517,7 @@
                   "type": "generated-index",
                   "description": "description should not appear. report this.",
                   "slug": "/category/alsys-connect",
-                  "permalink": "/alsys_admin_playbook_menu_cards/docs/next/category/alsys-connect"
+                  "permalink": "/alsys_admin_cards/docs/next/category/alsys-connect"
                 }
               }
             ]
@@ -530,8 +530,8 @@
           "badge": true,
           "noIndex": false,
           "className": "docs-version-1.0.0",
-          "path": "/alsys_admin_playbook_menu_cards/docs",
-          "tagsPath": "/alsys_admin_playbook_menu_cards/docs/tags",
+          "path": "/alsys_admin_cards/docs",
+          "tagsPath": "/alsys_admin_cards/docs/tags",
           "isLast": true,
           "routePriority": -1,
           "sidebarFilePath": "/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/versioned_sidebars/version-1.0.0-sidebars.json",
@@ -546,7 +546,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Guide to Alsys Admin application.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Guide to Alsys Admin application",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Guide to Alsys Admin application",
+              "permalink": "/alsys_admin_cards/docs/Alsys Admin/Guide to Alsys Admin application",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -557,11 +557,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Alsys Admin",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/category/alsys-admin"
+                "permalink": "/alsys_admin_cards/docs/category/alsys-admin"
               },
               "next": {
                 "title": "User management",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/User management"
+                "permalink": "/alsys_admin_cards/docs/Alsys Admin/User management"
               }
             },
             {
@@ -572,7 +572,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Health.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Health",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Health",
+              "permalink": "/alsys_admin_cards/docs/Alsys Admin/Health",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -583,11 +583,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "User management",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/User management"
+                "permalink": "/alsys_admin_cards/docs/Alsys Admin/User management"
               },
               "next": {
                 "title": "Newsfeed",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Newsfeed"
+                "permalink": "/alsys_admin_cards/docs/Alsys Admin/Newsfeed"
               }
             },
             {
@@ -598,7 +598,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Induction.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Induction",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Induction",
+              "permalink": "/alsys_admin_cards/docs/Alsys Admin/Induction",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -609,11 +609,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Newsfeed",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Newsfeed"
+                "permalink": "/alsys_admin_cards/docs/Alsys Admin/Newsfeed"
               },
               "next": {
                 "title": "Time & Attendance",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Time & Attendance"
+                "permalink": "/alsys_admin_cards/docs/Alsys Admin/Time & Attendance"
               }
             },
             {
@@ -624,7 +624,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Newsfeed.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Newsfeed",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Newsfeed",
+              "permalink": "/alsys_admin_cards/docs/Alsys Admin/Newsfeed",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -635,11 +635,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Health",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Health"
+                "permalink": "/alsys_admin_cards/docs/Alsys Admin/Health"
               },
               "next": {
                 "title": "Induction",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Induction"
+                "permalink": "/alsys_admin_cards/docs/Alsys Admin/Induction"
               }
             },
             {
@@ -650,7 +650,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Organization.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Organization",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Organization",
+              "permalink": "/alsys_admin_cards/docs/Alsys Admin/Organization",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -661,11 +661,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Time & Attendance",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Time & Attendance"
+                "permalink": "/alsys_admin_cards/docs/Alsys Admin/Time & Attendance"
               },
               "next": {
                 "title": "Alsys Connect",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/category/alsys-connect"
+                "permalink": "/alsys_admin_cards/docs/category/alsys-connect"
               }
             },
             {
@@ -676,7 +676,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Time & Attendance.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Time & Attendance",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Time & Attendance",
+              "permalink": "/alsys_admin_cards/docs/Alsys Admin/Time & Attendance",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -687,11 +687,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Induction",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Induction"
+                "permalink": "/alsys_admin_cards/docs/Alsys Admin/Induction"
               },
               "next": {
                 "title": "Organization",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Organization"
+                "permalink": "/alsys_admin_cards/docs/Alsys Admin/Organization"
               }
             },
             {
@@ -702,7 +702,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/User management.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/User management",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/User management",
+              "permalink": "/alsys_admin_cards/docs/Alsys Admin/User management",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -713,11 +713,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Guide to Alsys Admin application",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Guide to Alsys Admin application"
+                "permalink": "/alsys_admin_cards/docs/Alsys Admin/Guide to Alsys Admin application"
               },
               "next": {
                 "title": "Health",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Admin/Health"
+                "permalink": "/alsys_admin_cards/docs/Alsys Admin/Health"
               }
             },
             {
@@ -728,7 +728,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/Guide to Mobile Application.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Guide to Mobile Application",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Guide to Mobile Application",
+              "permalink": "/alsys_admin_cards/docs/Alsys Connect/Guide to Mobile Application",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -739,11 +739,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Alsys Connect",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/category/alsys-connect"
+                "permalink": "/alsys_admin_cards/docs/category/alsys-connect"
               },
               "next": {
                 "title": "User Registration",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/User Registration"
+                "permalink": "/alsys_admin_cards/docs/Alsys Connect/User Registration"
               }
             },
             {
@@ -754,7 +754,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/Health.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Health",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Health",
+              "permalink": "/alsys_admin_cards/docs/Alsys Connect/Health",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -765,11 +765,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Home",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Home"
+                "permalink": "/alsys_admin_cards/docs/Alsys Connect/Home"
               },
               "next": {
                 "title": "Newsfeed",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Newsfeed"
+                "permalink": "/alsys_admin_cards/docs/Alsys Connect/Newsfeed"
               }
             },
             {
@@ -780,7 +780,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/Home.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Home",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Home",
+              "permalink": "/alsys_admin_cards/docs/Alsys Connect/Home",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -791,11 +791,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "User Profile",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/User Profile"
+                "permalink": "/alsys_admin_cards/docs/Alsys Connect/User Profile"
               },
               "next": {
                 "title": "Health",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Health"
+                "permalink": "/alsys_admin_cards/docs/Alsys Connect/Health"
               }
             },
             {
@@ -806,7 +806,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/Induction.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Induction",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Induction",
+              "permalink": "/alsys_admin_cards/docs/Alsys Connect/Induction",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -817,11 +817,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Newsfeed",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Newsfeed"
+                "permalink": "/alsys_admin_cards/docs/Alsys Connect/Newsfeed"
               },
               "next": {
                 "title": "Settings",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Settings"
+                "permalink": "/alsys_admin_cards/docs/Alsys Connect/Settings"
               }
             },
             {
@@ -832,7 +832,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/Newsfeed.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Newsfeed",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Newsfeed",
+              "permalink": "/alsys_admin_cards/docs/Alsys Connect/Newsfeed",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -843,11 +843,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Health",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Health"
+                "permalink": "/alsys_admin_cards/docs/Alsys Connect/Health"
               },
               "next": {
                 "title": "Induction",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Induction"
+                "permalink": "/alsys_admin_cards/docs/Alsys Connect/Induction"
               }
             },
             {
@@ -858,7 +858,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/Settings.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Settings",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Settings",
+              "permalink": "/alsys_admin_cards/docs/Alsys Connect/Settings",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -869,7 +869,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Induction",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Induction"
+                "permalink": "/alsys_admin_cards/docs/Alsys Connect/Induction"
               }
             },
             {
@@ -880,7 +880,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/User Profile.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/User Profile",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/User Profile",
+              "permalink": "/alsys_admin_cards/docs/Alsys Connect/User Profile",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -891,11 +891,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "User Registration",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/User Registration"
+                "permalink": "/alsys_admin_cards/docs/Alsys Connect/User Registration"
               },
               "next": {
                 "title": "Home",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Home"
+                "permalink": "/alsys_admin_cards/docs/Alsys Connect/Home"
               }
             },
             {
@@ -906,7 +906,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/User Registration.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/User Registration",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/User Registration",
+              "permalink": "/alsys_admin_cards/docs/Alsys Connect/User Registration",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -917,11 +917,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Guide to Mobile Application",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/Guide to Mobile Application"
+                "permalink": "/alsys_admin_cards/docs/Alsys Connect/Guide to Mobile Application"
               },
               "next": {
                 "title": "User Profile",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/Alsys Connect/User Profile"
+                "permalink": "/alsys_admin_cards/docs/Alsys Connect/User Profile"
               }
             },
             {
@@ -932,7 +932,7 @@
               "source": "@site/versioned_docs/version-1.0.0/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/alsys_admin_playbook_menu_cards/docs/intro",
+              "permalink": "/alsys_admin_cards/docs/intro",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -943,7 +943,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Alsys Admin",
-                "permalink": "/alsys_admin_playbook_menu_cards/docs/category/alsys-admin"
+                "permalink": "/alsys_admin_cards/docs/category/alsys-admin"
               }
             }
           ],
@@ -993,7 +993,7 @@
                   "type": "generated-index",
                   "description": "description",
                   "slug": "/category/alsys-admin",
-                  "permalink": "/alsys_admin_playbook_menu_cards/docs/category/alsys-admin"
+                  "permalink": "/alsys_admin_cards/docs/category/alsys-admin"
                 }
               },
               {
@@ -1039,7 +1039,7 @@
                   "type": "generated-index",
                   "description": "description should not appear. report this.",
                   "slug": "/category/alsys-connect",
-                  "permalink": "/alsys_admin_playbook_menu_cards/docs/category/alsys-connect"
+                  "permalink": "/alsys_admin_cards/docs/category/alsys-connect"
                 }
               }
             ]
@@ -1055,7 +1055,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/alsys_admin_playbook_menu_cards/blog/welcome",
+            "permalink": "/alsys_admin_cards/blog/welcome",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -1064,15 +1064,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/facebook"
+                "permalink": "/alsys_admin_cards/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/hello"
+                "permalink": "/alsys_admin_cards/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/docusaurus"
+                "permalink": "/alsys_admin_cards/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -1108,7 +1108,7 @@
             },
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/alsys_admin_playbook_menu_cards/blog/mdx-blog-post"
+              "permalink": "/alsys_admin_cards/blog/mdx-blog-post"
             }
           },
           "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -1116,7 +1116,7 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/alsys_admin_playbook_menu_cards/blog/mdx-blog-post",
+            "permalink": "/alsys_admin_cards/blog/mdx-blog-post",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -1125,7 +1125,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/docusaurus"
+                "permalink": "/alsys_admin_cards/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -1151,11 +1151,11 @@
             },
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/alsys_admin_playbook_menu_cards/blog/welcome"
+              "permalink": "/alsys_admin_cards/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/alsys_admin_playbook_menu_cards/blog/long-blog-post"
+              "permalink": "/alsys_admin_cards/blog/long-blog-post"
             }
           },
           "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
@@ -1163,7 +1163,7 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/alsys_admin_playbook_menu_cards/blog/long-blog-post",
+            "permalink": "/alsys_admin_cards/blog/long-blog-post",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
@@ -1172,11 +1172,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/hello"
+                "permalink": "/alsys_admin_cards/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/docusaurus"
+                "permalink": "/alsys_admin_cards/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -1201,11 +1201,11 @@
             },
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/alsys_admin_playbook_menu_cards/blog/mdx-blog-post"
+              "permalink": "/alsys_admin_cards/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/alsys_admin_playbook_menu_cards/blog/first-blog-post"
+              "permalink": "/alsys_admin_cards/blog/first-blog-post"
             }
           },
           "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -1213,7 +1213,7 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/alsys_admin_playbook_menu_cards/blog/first-blog-post",
+            "permalink": "/alsys_admin_cards/blog/first-blog-post",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
@@ -1222,11 +1222,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/hola"
+                "permalink": "/alsys_admin_cards/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/docusaurus"
+                "permalink": "/alsys_admin_cards/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -1257,7 +1257,7 @@
             },
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/alsys_admin_playbook_menu_cards/blog/long-blog-post"
+              "permalink": "/alsys_admin_cards/blog/long-blog-post"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -1272,7 +1272,7 @@
             "first-blog-post"
           ],
           "metadata": {
-            "permalink": "/alsys_admin_playbook_menu_cards/blog",
+            "permalink": "/alsys_admin_cards/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -1283,19 +1283,19 @@
         }
       ],
       "blogTags": {
-        "/alsys_admin_playbook_menu_cards/blog/tags/facebook": {
+        "/alsys_admin_cards/blog/tags/facebook": {
           "label": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/facebook",
+          "permalink": "/alsys_admin_cards/blog/tags/facebook",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/facebook",
+                "permalink": "/alsys_admin_cards/blog/tags/facebook",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1306,13 +1306,13 @@
             }
           ]
         },
-        "/alsys_admin_playbook_menu_cards/blog/tags/hello": {
+        "/alsys_admin_cards/blog/tags/hello": {
           "label": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/hello",
+          "permalink": "/alsys_admin_cards/blog/tags/hello",
           "pages": [
             {
               "items": [
@@ -1320,7 +1320,7 @@
                 "long-blog-post"
               ],
               "metadata": {
-                "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/hello",
+                "permalink": "/alsys_admin_cards/blog/tags/hello",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1331,7 +1331,7 @@
             }
           ]
         },
-        "/alsys_admin_playbook_menu_cards/blog/tags/docusaurus": {
+        "/alsys_admin_cards/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
             "welcome",
@@ -1339,7 +1339,7 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/docusaurus",
+          "permalink": "/alsys_admin_cards/blog/tags/docusaurus",
           "pages": [
             {
               "items": [
@@ -1349,7 +1349,7 @@
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/docusaurus",
+                "permalink": "/alsys_admin_cards/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1360,19 +1360,19 @@
             }
           ]
         },
-        "/alsys_admin_playbook_menu_cards/blog/tags/hola": {
+        "/alsys_admin_cards/blog/tags/hola": {
           "label": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/hola",
+          "permalink": "/alsys_admin_cards/blog/tags/hola",
           "pages": [
             {
               "items": [
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/alsys_admin_playbook_menu_cards/blog/tags/hola",
+                "permalink": "/alsys_admin_cards/blog/tags/hola",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -1384,19 +1384,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/alsys_admin_playbook_menu_cards/blog/tags"
+      "blogTagsListPath": "/alsys_admin_cards/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/alsys_admin_playbook_menu_cards/",
+        "permalink": "/alsys_admin_cards/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/alsys_admin_playbook_menu_cards/markdown-page",
+        "permalink": "/alsys_admin_cards/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

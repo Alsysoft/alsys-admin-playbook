@@ -6,7 +6,7 @@
   "source": "@site/docs/Alsys Connect/Home.md",
   "sourceDirName": "Alsys Connect",
   "slug": "/Alsys Connect/Home",
-  "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Home",
+  "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Home",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "User Profile",
-    "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/User Profile"
+    "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/User Profile"
   },
   "next": {
     "title": "Health",
-    "permalink": "/alsys_admin_playbook_menu_cards/docs/next/Alsys Connect/Health"
+    "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Health"
   }
 }
