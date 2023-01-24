@@ -47,7 +47,7 @@ import Usersinactive from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/s
 
 #### Viewing User Activity
 1. To view a user's activity on the app, go to the "Users" tab and select the user whose activity you wish to view by pressing the button from the "Action".
-2. The app will display a list of the user's general information, a profile picture, Inducted or not, and will keep a record of every Health Entry, allowing you to see the health trends over time.
+2. The app will display a list of the user's general information, a profile picture, Inducted or not, and will keep a record of every Health Entry, allowing you to see the health status over time.
 3. The Entry History is displayed by default when viewing the user.
 
 import healthstatus from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/healthusers.png';

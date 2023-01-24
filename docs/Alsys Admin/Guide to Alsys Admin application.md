@@ -12,7 +12,7 @@ sidebar_position: 1
 3. Wait for the app to finish installing, then select "Open" to launch the app.
 
 #### Registration
-As an admin, you do not require to register, but you still get an invitation from a Super Admin. You will receive a password to associate with your email account invited to the organisation.
+As an admin, you do not require to register, instead you will receive an email invitation from a Super Admin. You will also receive a password associated with your email account.
 
 import admin_invite from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/admin_invite.png';
 
