@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Introduction",
-  "description": "Remote onboarding, Health & Safety and Personnel Management",
+  "description": "Remote Onboarding,",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -12,7 +12,9 @@
   "version": "current",
   "sidebarPosition": 0,
   "frontMatter": {
-    "sidebar_position": 0
+    "sidebar_position": 0,
+    "hide_table_of_contents": false,
+    "title": "Introduction"
   },
   "sidebar": "tutorialSidebar",
   "next": {

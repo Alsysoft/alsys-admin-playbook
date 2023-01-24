@@ -297,9 +297,9 @@
     "179": {
       "js": [
         {
-          "file": "assets/js/main.a64b098d.js",
-          "hash": "914fd62ab2f791e3",
-          "publicPath": "/alsys_admin_cards/assets/js/main.a64b098d.js"
+          "file": "assets/js/main.19a4ab52.js",
+          "hash": "40722b2c2fbc8a52",
+          "publicPath": "/alsys_admin_cards/assets/js/main.19a4ab52.js"
         }
       ]
     },
@@ -388,7 +388,7 @@
       "js": [
         {
           "file": "assets/js/runtime~main.f19d48e5.js",
-          "hash": "1213b0d7da6dc546",
+          "hash": "8127ab67fb8ac3a6",
           "publicPath": "/alsys_admin_cards/assets/js/runtime~main.f19d48e5.js"
         }
       ]
