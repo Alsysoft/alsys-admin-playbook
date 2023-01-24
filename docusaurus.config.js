@@ -74,6 +74,10 @@ const config = {
         ],
       },
       footer: {
+        logo: {
+          alt: 'Meta Open Source Logo',
+          src: 'img/favicon.ico',
+        },
         style: 'dark',
         links: [
           {
@@ -86,6 +90,32 @@ const config = {
               {
                 label: 'alsysoft.com',
                 href: 'https://www.alsysoft.com/',
+              },
+            ],
+          },
+          {
+            title: 'Contact Us',
+            items: [
+              {
+                label: 'UK +44 7522 585 427',
+                href:'tel:+44%207522%20585%20427',              
+              },
+              {
+                label: 'RO +40 756 196 206',
+                href:'tel:+40%20756%20196206',
+              },
+            ],
+          },
+          {
+            title: 'Social',
+            items: [
+              {
+                label: 'linkedin',
+                href:'https://www.linkedin.com/company/alsys-ltd/',              
+              },
+              {
+                label: 'facebook',
+                href:'https://www.facebook.com/alsysoft',
               },
             ],
           },
