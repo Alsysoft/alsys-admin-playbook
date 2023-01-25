@@ -21,7 +21,7 @@ import newsf1 from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/i
 
 3. After making sure all the documents were reviewed, the user can tap on the active “Confirm” button.
 
-4. If the admin set a questionnaire for the post, it will be displayed after tapping on confirmation button.
+4. If the admin sets a questionnaire for the post, it will be displayed after tapping on confirmation button.
 
 import newsf2 from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/newsf2.png';
 
