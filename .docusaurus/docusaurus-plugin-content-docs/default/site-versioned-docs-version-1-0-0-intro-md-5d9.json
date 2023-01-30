@@ -5,8 +5,8 @@
   "description": "Remote Onboarding,",
   "source": "@site/versioned_docs/version-1.0.0/intro.md",
   "sourceDirName": ".",
-  "slug": "/intro",
-  "permalink": "/alsys_admin_cards/docs/intro",
+  "slug": "/",
+  "permalink": "/alsys_admin_cards/",
   "draft": false,
   "tags": [],
   "version": "1.0.0",
@@ -14,11 +14,12 @@
   "frontMatter": {
     "sidebar_position": 0,
     "hide_table_of_contents": false,
-    "title": "Introduction"
+    "title": "Introduction",
+    "slug": "/"
   },
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Alsys Admin",
-    "permalink": "/alsys_admin_cards/docs/category/alsys-admin"
+    "permalink": "/alsys_admin_cards/category/alsys-admin"
   }
 }

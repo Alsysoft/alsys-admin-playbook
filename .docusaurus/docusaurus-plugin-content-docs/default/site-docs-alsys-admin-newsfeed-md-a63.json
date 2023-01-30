@@ -6,7 +6,7 @@
   "source": "@site/docs/Alsys Admin/Newsfeed.md",
   "sourceDirName": "Alsys Admin",
   "slug": "/Alsys Admin/Newsfeed",
-  "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Newsfeed",
+  "permalink": "/alsys_admin_cards/next/Alsys Admin/Newsfeed",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Health",
-    "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Health"
+    "permalink": "/alsys_admin_cards/next/Alsys Admin/Health"
   },
   "next": {
     "title": "Induction",
-    "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Induction"
+    "permalink": "/alsys_admin_cards/next/Alsys Admin/Induction"
   }
 }

@@ -6,7 +6,7 @@
   "source": "@site/docs/Alsys Connect/Guide to Mobile Application.md",
   "sourceDirName": "Alsys Connect",
   "slug": "/Alsys Connect/Guide to Mobile Application",
-  "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Guide to Mobile Application",
+  "permalink": "/alsys_admin_cards/next/Alsys Connect/Guide to Mobile Application",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Alsys Connect",
-    "permalink": "/alsys_admin_cards/docs/next/category/alsys-connect"
+    "permalink": "/alsys_admin_cards/next/category/alsys-connect"
   },
   "next": {
     "title": "User Registration",
-    "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/User Registration"
+    "permalink": "/alsys_admin_cards/next/Alsys Connect/User Registration"
   }
 }

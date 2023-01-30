@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplaybook=self.webpackChunkplaybook||[]).push([[2359],{611:(e,t,a)=>{a.r(t),a.d(t,{default:()=>u});var l=a(7294),o=a(6550);function u(){return l.createElement(o.l_,{to:"/docs"})}}}]);

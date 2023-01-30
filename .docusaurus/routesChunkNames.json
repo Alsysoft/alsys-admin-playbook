@@ -136,6 +136,13 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
+  "/alsys_admin_cards/intro-fb7": {
+    "__comp": "48e2ebd6",
+    "__context": {
+      "plugin": "3400eae8"
+    },
+    "config": "5e9f5e1a"
+  },
   "/alsys_admin_cards/markdown-page-cb7": {
     "__comp": "1f391b9e",
     "__context": {
@@ -143,169 +150,162 @@
     },
     "content": "393be207"
   },
-  "/alsys_admin_cards/docs/next-517": {
+  "/alsys_admin_cards/next-2a3": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "dc5dae2b"
     },
     "versionMetadata": "935f2afb"
   },
-  "/alsys_admin_cards/docs/next/Alsys Admin/Guide to Alsys Admin application-f47": {
-    "__comp": "17896441",
-    "content": "415727bd"
-  },
-  "/alsys_admin_cards/docs/next/Alsys Admin/Health-10a": {
-    "__comp": "17896441",
-    "content": "7f2f30f3"
-  },
-  "/alsys_admin_cards/docs/next/Alsys Admin/Induction-57b": {
-    "__comp": "17896441",
-    "content": "ec9ceeaa"
-  },
-  "/alsys_admin_cards/docs/next/Alsys Admin/Newsfeed-2d7": {
-    "__comp": "17896441",
-    "content": "a638dad4"
-  },
-  "/alsys_admin_cards/docs/next/Alsys Admin/Organization-046": {
-    "__comp": "17896441",
-    "content": "00c9ffdf"
-  },
-  "/alsys_admin_cards/docs/next/Alsys Admin/Time & Attendance-625": {
-    "__comp": "17896441",
-    "content": "c38f57ac"
-  },
-  "/alsys_admin_cards/docs/next/Alsys Admin/User management-615": {
-    "__comp": "17896441",
-    "content": "55a1e6c3"
-  },
-  "/alsys_admin_cards/docs/next/Alsys Connect/Guide to Mobile Application-2e9": {
-    "__comp": "17896441",
-    "content": "7e258456"
-  },
-  "/alsys_admin_cards/docs/next/Alsys Connect/Health-040": {
-    "__comp": "17896441",
-    "content": "05ebfc0c"
-  },
-  "/alsys_admin_cards/docs/next/Alsys Connect/Home-f0b": {
-    "__comp": "17896441",
-    "content": "ebae28b3"
-  },
-  "/alsys_admin_cards/docs/next/Alsys Connect/Induction-62d": {
-    "__comp": "17896441",
-    "content": "28bf9710"
-  },
-  "/alsys_admin_cards/docs/next/Alsys Connect/Newsfeed-f92": {
-    "__comp": "17896441",
-    "content": "e0c9035e"
-  },
-  "/alsys_admin_cards/docs/next/Alsys Connect/Settings-93b": {
-    "__comp": "17896441",
-    "content": "f52fb0ec"
-  },
-  "/alsys_admin_cards/docs/next/Alsys Connect/User Profile-c1c": {
-    "__comp": "17896441",
-    "content": "6d6fb5f6"
-  },
-  "/alsys_admin_cards/docs/next/Alsys Connect/User Registration-72e": {
-    "__comp": "17896441",
-    "content": "23323cd6"
-  },
-  "/alsys_admin_cards/docs/next/category/alsys-admin-0fc": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "37b89894"
-  },
-  "/alsys_admin_cards/docs/next/category/alsys-connect-c4f": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "ed88872a"
-  },
-  "/alsys_admin_cards/docs/next/intro-b7a": {
+  "/alsys_admin_cards/next/-a6b": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/alsys_admin_cards/docs-23b": {
+  "/alsys_admin_cards/next/Alsys Admin/Guide to Alsys Admin application-2d3": {
+    "__comp": "17896441",
+    "content": "415727bd"
+  },
+  "/alsys_admin_cards/next/Alsys Admin/Health-82c": {
+    "__comp": "17896441",
+    "content": "7f2f30f3"
+  },
+  "/alsys_admin_cards/next/Alsys Admin/Induction-450": {
+    "__comp": "17896441",
+    "content": "ec9ceeaa"
+  },
+  "/alsys_admin_cards/next/Alsys Admin/Newsfeed-742": {
+    "__comp": "17896441",
+    "content": "a638dad4"
+  },
+  "/alsys_admin_cards/next/Alsys Admin/Organization-607": {
+    "__comp": "17896441",
+    "content": "00c9ffdf"
+  },
+  "/alsys_admin_cards/next/Alsys Admin/Time & Attendance-9c3": {
+    "__comp": "17896441",
+    "content": "c38f57ac"
+  },
+  "/alsys_admin_cards/next/Alsys Admin/User management-956": {
+    "__comp": "17896441",
+    "content": "55a1e6c3"
+  },
+  "/alsys_admin_cards/next/Alsys Connect/Guide to Mobile Application-b89": {
+    "__comp": "17896441",
+    "content": "7e258456"
+  },
+  "/alsys_admin_cards/next/Alsys Connect/Health-c74": {
+    "__comp": "17896441",
+    "content": "05ebfc0c"
+  },
+  "/alsys_admin_cards/next/Alsys Connect/Home-379": {
+    "__comp": "17896441",
+    "content": "ebae28b3"
+  },
+  "/alsys_admin_cards/next/Alsys Connect/Induction-0e8": {
+    "__comp": "17896441",
+    "content": "28bf9710"
+  },
+  "/alsys_admin_cards/next/Alsys Connect/Newsfeed-fd6": {
+    "__comp": "17896441",
+    "content": "e0c9035e"
+  },
+  "/alsys_admin_cards/next/Alsys Connect/Settings-9c6": {
+    "__comp": "17896441",
+    "content": "f52fb0ec"
+  },
+  "/alsys_admin_cards/next/Alsys Connect/User Profile-1cd": {
+    "__comp": "17896441",
+    "content": "6d6fb5f6"
+  },
+  "/alsys_admin_cards/next/Alsys Connect/User Registration-4ca": {
+    "__comp": "17896441",
+    "content": "23323cd6"
+  },
+  "/alsys_admin_cards/next/category/alsys-admin-8bd": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "0e1b8bbc"
+  },
+  "/alsys_admin_cards/next/category/alsys-connect-457": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "ffc8cf3f"
+  },
+  "/alsys_admin_cards/-cb4": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "dc5dae2b"
     },
     "versionMetadata": "62e81aa6"
   },
-  "/alsys_admin_cards/docs/Alsys Admin/Guide to Alsys Admin application-524": {
-    "__comp": "17896441",
-    "content": "e65d43dc"
-  },
-  "/alsys_admin_cards/docs/Alsys Admin/Health-b74": {
-    "__comp": "17896441",
-    "content": "12cdcd22"
-  },
-  "/alsys_admin_cards/docs/Alsys Admin/Induction-6b4": {
-    "__comp": "17896441",
-    "content": "04a9067b"
-  },
-  "/alsys_admin_cards/docs/Alsys Admin/Newsfeed-2e1": {
-    "__comp": "17896441",
-    "content": "0c11356a"
-  },
-  "/alsys_admin_cards/docs/Alsys Admin/Organization-6c7": {
-    "__comp": "17896441",
-    "content": "35686c81"
-  },
-  "/alsys_admin_cards/docs/Alsys Admin/Time & Attendance-603": {
-    "__comp": "17896441",
-    "content": "7096fada"
-  },
-  "/alsys_admin_cards/docs/Alsys Admin/User management-cd8": {
-    "__comp": "17896441",
-    "content": "79699b11"
-  },
-  "/alsys_admin_cards/docs/Alsys Connect/Guide to Mobile Application-149": {
-    "__comp": "17896441",
-    "content": "d350b487"
-  },
-  "/alsys_admin_cards/docs/Alsys Connect/Health-57b": {
-    "__comp": "17896441",
-    "content": "7382017a"
-  },
-  "/alsys_admin_cards/docs/Alsys Connect/Home-8f0": {
-    "__comp": "17896441",
-    "content": "725d8e9c"
-  },
-  "/alsys_admin_cards/docs/Alsys Connect/Induction-75b": {
-    "__comp": "17896441",
-    "content": "ccefcf8a"
-  },
-  "/alsys_admin_cards/docs/Alsys Connect/Newsfeed-e2f": {
-    "__comp": "17896441",
-    "content": "0b326664"
-  },
-  "/alsys_admin_cards/docs/Alsys Connect/Settings-9d8": {
-    "__comp": "17896441",
-    "content": "6a7e6616"
-  },
-  "/alsys_admin_cards/docs/Alsys Connect/User Profile-530": {
-    "__comp": "17896441",
-    "content": "4ae66fc6"
-  },
-  "/alsys_admin_cards/docs/Alsys Connect/User Registration-7ab": {
-    "__comp": "17896441",
-    "content": "2651d90f"
-  },
-  "/alsys_admin_cards/docs/category/alsys-admin-d73": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "2aa541e3"
-  },
-  "/alsys_admin_cards/docs/category/alsys-connect-af1": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "722b606d"
-  },
-  "/alsys_admin_cards/docs/intro-a82": {
+  "/alsys_admin_cards/-59e": {
     "__comp": "17896441",
     "content": "5d94dea0"
   },
-  "/alsys_admin_cards/-bc8": {
-    "__comp": "c4f5d8e4",
-    "__context": {
-      "plugin": "3400eae8"
-    },
-    "config": "5e9f5e1a"
+  "/alsys_admin_cards/Alsys Admin/Guide to Alsys Admin application-b04": {
+    "__comp": "17896441",
+    "content": "e65d43dc"
+  },
+  "/alsys_admin_cards/Alsys Admin/Health-453": {
+    "__comp": "17896441",
+    "content": "12cdcd22"
+  },
+  "/alsys_admin_cards/Alsys Admin/Induction-7ba": {
+    "__comp": "17896441",
+    "content": "04a9067b"
+  },
+  "/alsys_admin_cards/Alsys Admin/Newsfeed-cb5": {
+    "__comp": "17896441",
+    "content": "0c11356a"
+  },
+  "/alsys_admin_cards/Alsys Admin/Organization-011": {
+    "__comp": "17896441",
+    "content": "35686c81"
+  },
+  "/alsys_admin_cards/Alsys Admin/Time & Attendance-819": {
+    "__comp": "17896441",
+    "content": "7096fada"
+  },
+  "/alsys_admin_cards/Alsys Admin/User management-2d0": {
+    "__comp": "17896441",
+    "content": "79699b11"
+  },
+  "/alsys_admin_cards/Alsys Connect/Guide to Mobile Application-f94": {
+    "__comp": "17896441",
+    "content": "d350b487"
+  },
+  "/alsys_admin_cards/Alsys Connect/Health-c24": {
+    "__comp": "17896441",
+    "content": "7382017a"
+  },
+  "/alsys_admin_cards/Alsys Connect/Home-a3d": {
+    "__comp": "17896441",
+    "content": "725d8e9c"
+  },
+  "/alsys_admin_cards/Alsys Connect/Induction-5a9": {
+    "__comp": "17896441",
+    "content": "ccefcf8a"
+  },
+  "/alsys_admin_cards/Alsys Connect/Newsfeed-336": {
+    "__comp": "17896441",
+    "content": "0b326664"
+  },
+  "/alsys_admin_cards/Alsys Connect/Settings-fc7": {
+    "__comp": "17896441",
+    "content": "6a7e6616"
+  },
+  "/alsys_admin_cards/Alsys Connect/User Profile-bc8": {
+    "__comp": "17896441",
+    "content": "4ae66fc6"
+  },
+  "/alsys_admin_cards/Alsys Connect/User Registration-8fe": {
+    "__comp": "17896441",
+    "content": "2651d90f"
+  },
+  "/alsys_admin_cards/category/alsys-admin-237": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "3388ecd1"
+  },
+  "/alsys_admin_cards/category/alsys-connect-a49": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "95f91431"
   }
 }

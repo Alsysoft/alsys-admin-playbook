@@ -1,0 +1,15 @@
+{
+  "title": "Alsys Admin",
+  "slug": "/category/alsys-admin",
+  "permalink": "/alsys_admin_cards/docs/docs/category/alsys-admin",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/alsys_admin_cards/docs/docs/"
+    },
+    "next": {
+      "title": "Guide to Alsys Admin application",
+      "permalink": "/alsys_admin_cards/docs/docs/Alsys Admin/Guide to Alsys Admin application"
+    }
+  }
+}

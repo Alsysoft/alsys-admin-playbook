@@ -58,233 +58,124 @@ export default [
     exact: true
   },
   {
+    path: '/alsys_admin_cards/intro',
+    component: ComponentCreator('/alsys_admin_cards/intro', 'fb7'),
+    exact: true
+  },
+  {
     path: '/alsys_admin_cards/markdown-page',
     component: ComponentCreator('/alsys_admin_cards/markdown-page', 'cb7'),
     exact: true
   },
   {
-    path: '/alsys_admin_cards/docs/next',
-    component: ComponentCreator('/alsys_admin_cards/docs/next', '517'),
+    path: '/alsys_admin_cards/next',
+    component: ComponentCreator('/alsys_admin_cards/next', '2a3'),
     routes: [
       {
-        path: '/alsys_admin_cards/docs/next/Alsys Admin/Guide to Alsys Admin application',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/Alsys Admin/Guide to Alsys Admin application', 'f47'),
+        path: '/alsys_admin_cards/next/',
+        component: ComponentCreator('/alsys_admin_cards/next/', 'a6b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/Alsys Admin/Health',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/Alsys Admin/Health', '10a'),
+        path: '/alsys_admin_cards/next/Alsys Admin/Guide to Alsys Admin application',
+        component: ComponentCreator('/alsys_admin_cards/next/Alsys Admin/Guide to Alsys Admin application', '2d3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/Alsys Admin/Induction',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/Alsys Admin/Induction', '57b'),
+        path: '/alsys_admin_cards/next/Alsys Admin/Health',
+        component: ComponentCreator('/alsys_admin_cards/next/Alsys Admin/Health', '82c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/Alsys Admin/Newsfeed',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/Alsys Admin/Newsfeed', '2d7'),
+        path: '/alsys_admin_cards/next/Alsys Admin/Induction',
+        component: ComponentCreator('/alsys_admin_cards/next/Alsys Admin/Induction', '450'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/Alsys Admin/Organization',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/Alsys Admin/Organization', '046'),
+        path: '/alsys_admin_cards/next/Alsys Admin/Newsfeed',
+        component: ComponentCreator('/alsys_admin_cards/next/Alsys Admin/Newsfeed', '742'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/Alsys Admin/Time & Attendance',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/Alsys Admin/Time & Attendance', '625'),
+        path: '/alsys_admin_cards/next/Alsys Admin/Organization',
+        component: ComponentCreator('/alsys_admin_cards/next/Alsys Admin/Organization', '607'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/Alsys Admin/User management',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/Alsys Admin/User management', '615'),
+        path: '/alsys_admin_cards/next/Alsys Admin/Time & Attendance',
+        component: ComponentCreator('/alsys_admin_cards/next/Alsys Admin/Time & Attendance', '9c3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/Alsys Connect/Guide to Mobile Application',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/Alsys Connect/Guide to Mobile Application', '2e9'),
+        path: '/alsys_admin_cards/next/Alsys Admin/User management',
+        component: ComponentCreator('/alsys_admin_cards/next/Alsys Admin/User management', '956'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/Alsys Connect/Health',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/Alsys Connect/Health', '040'),
+        path: '/alsys_admin_cards/next/Alsys Connect/Guide to Mobile Application',
+        component: ComponentCreator('/alsys_admin_cards/next/Alsys Connect/Guide to Mobile Application', 'b89'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/Alsys Connect/Home',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/Alsys Connect/Home', 'f0b'),
+        path: '/alsys_admin_cards/next/Alsys Connect/Health',
+        component: ComponentCreator('/alsys_admin_cards/next/Alsys Connect/Health', 'c74'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/Alsys Connect/Induction',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/Alsys Connect/Induction', '62d'),
+        path: '/alsys_admin_cards/next/Alsys Connect/Home',
+        component: ComponentCreator('/alsys_admin_cards/next/Alsys Connect/Home', '379'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/Alsys Connect/Newsfeed',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/Alsys Connect/Newsfeed', 'f92'),
+        path: '/alsys_admin_cards/next/Alsys Connect/Induction',
+        component: ComponentCreator('/alsys_admin_cards/next/Alsys Connect/Induction', '0e8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/Alsys Connect/Settings',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/Alsys Connect/Settings', '93b'),
+        path: '/alsys_admin_cards/next/Alsys Connect/Newsfeed',
+        component: ComponentCreator('/alsys_admin_cards/next/Alsys Connect/Newsfeed', 'fd6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/Alsys Connect/User Profile',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/Alsys Connect/User Profile', 'c1c'),
+        path: '/alsys_admin_cards/next/Alsys Connect/Settings',
+        component: ComponentCreator('/alsys_admin_cards/next/Alsys Connect/Settings', '9c6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/Alsys Connect/User Registration',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/Alsys Connect/User Registration', '72e'),
+        path: '/alsys_admin_cards/next/Alsys Connect/User Profile',
+        component: ComponentCreator('/alsys_admin_cards/next/Alsys Connect/User Profile', '1cd'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/category/alsys-admin',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/category/alsys-admin', '0fc'),
+        path: '/alsys_admin_cards/next/Alsys Connect/User Registration',
+        component: ComponentCreator('/alsys_admin_cards/next/Alsys Connect/User Registration', '4ca'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/category/alsys-connect',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/category/alsys-connect', 'c4f'),
+        path: '/alsys_admin_cards/next/category/alsys-admin',
+        component: ComponentCreator('/alsys_admin_cards/next/category/alsys-admin', '8bd'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys_admin_cards/docs/next/intro',
-        component: ComponentCreator('/alsys_admin_cards/docs/next/intro', 'b7a'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      }
-    ]
-  },
-  {
-    path: '/alsys_admin_cards/docs',
-    component: ComponentCreator('/alsys_admin_cards/docs', '23b'),
-    routes: [
-      {
-        path: '/alsys_admin_cards/docs/Alsys Admin/Guide to Alsys Admin application',
-        component: ComponentCreator('/alsys_admin_cards/docs/Alsys Admin/Guide to Alsys Admin application', '524'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/Alsys Admin/Health',
-        component: ComponentCreator('/alsys_admin_cards/docs/Alsys Admin/Health', 'b74'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/Alsys Admin/Induction',
-        component: ComponentCreator('/alsys_admin_cards/docs/Alsys Admin/Induction', '6b4'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/Alsys Admin/Newsfeed',
-        component: ComponentCreator('/alsys_admin_cards/docs/Alsys Admin/Newsfeed', '2e1'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/Alsys Admin/Organization',
-        component: ComponentCreator('/alsys_admin_cards/docs/Alsys Admin/Organization', '6c7'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/Alsys Admin/Time & Attendance',
-        component: ComponentCreator('/alsys_admin_cards/docs/Alsys Admin/Time & Attendance', '603'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/Alsys Admin/User management',
-        component: ComponentCreator('/alsys_admin_cards/docs/Alsys Admin/User management', 'cd8'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/Alsys Connect/Guide to Mobile Application',
-        component: ComponentCreator('/alsys_admin_cards/docs/Alsys Connect/Guide to Mobile Application', '149'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/Alsys Connect/Health',
-        component: ComponentCreator('/alsys_admin_cards/docs/Alsys Connect/Health', '57b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/Alsys Connect/Home',
-        component: ComponentCreator('/alsys_admin_cards/docs/Alsys Connect/Home', '8f0'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/Alsys Connect/Induction',
-        component: ComponentCreator('/alsys_admin_cards/docs/Alsys Connect/Induction', '75b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/Alsys Connect/Newsfeed',
-        component: ComponentCreator('/alsys_admin_cards/docs/Alsys Connect/Newsfeed', 'e2f'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/Alsys Connect/Settings',
-        component: ComponentCreator('/alsys_admin_cards/docs/Alsys Connect/Settings', '9d8'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/Alsys Connect/User Profile',
-        component: ComponentCreator('/alsys_admin_cards/docs/Alsys Connect/User Profile', '530'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/Alsys Connect/User Registration',
-        component: ComponentCreator('/alsys_admin_cards/docs/Alsys Connect/User Registration', '7ab'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/category/alsys-admin',
-        component: ComponentCreator('/alsys_admin_cards/docs/category/alsys-admin', 'd73'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/category/alsys-connect',
-        component: ComponentCreator('/alsys_admin_cards/docs/category/alsys-connect', 'af1'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/alsys_admin_cards/docs/intro',
-        component: ComponentCreator('/alsys_admin_cards/docs/intro', 'a82'),
+        path: '/alsys_admin_cards/next/category/alsys-connect',
+        component: ComponentCreator('/alsys_admin_cards/next/category/alsys-connect', '457'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
@@ -292,8 +183,117 @@ export default [
   },
   {
     path: '/alsys_admin_cards/',
-    component: ComponentCreator('/alsys_admin_cards/', 'bc8'),
-    exact: true
+    component: ComponentCreator('/alsys_admin_cards/', 'cb4'),
+    routes: [
+      {
+        path: '/alsys_admin_cards/',
+        component: ComponentCreator('/alsys_admin_cards/', '59e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/Alsys Admin/Guide to Alsys Admin application',
+        component: ComponentCreator('/alsys_admin_cards/Alsys Admin/Guide to Alsys Admin application', 'b04'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/Alsys Admin/Health',
+        component: ComponentCreator('/alsys_admin_cards/Alsys Admin/Health', '453'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/Alsys Admin/Induction',
+        component: ComponentCreator('/alsys_admin_cards/Alsys Admin/Induction', '7ba'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/Alsys Admin/Newsfeed',
+        component: ComponentCreator('/alsys_admin_cards/Alsys Admin/Newsfeed', 'cb5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/Alsys Admin/Organization',
+        component: ComponentCreator('/alsys_admin_cards/Alsys Admin/Organization', '011'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/Alsys Admin/Time & Attendance',
+        component: ComponentCreator('/alsys_admin_cards/Alsys Admin/Time & Attendance', '819'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/Alsys Admin/User management',
+        component: ComponentCreator('/alsys_admin_cards/Alsys Admin/User management', '2d0'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/Alsys Connect/Guide to Mobile Application',
+        component: ComponentCreator('/alsys_admin_cards/Alsys Connect/Guide to Mobile Application', 'f94'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/Alsys Connect/Health',
+        component: ComponentCreator('/alsys_admin_cards/Alsys Connect/Health', 'c24'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/Alsys Connect/Home',
+        component: ComponentCreator('/alsys_admin_cards/Alsys Connect/Home', 'a3d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/Alsys Connect/Induction',
+        component: ComponentCreator('/alsys_admin_cards/Alsys Connect/Induction', '5a9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/Alsys Connect/Newsfeed',
+        component: ComponentCreator('/alsys_admin_cards/Alsys Connect/Newsfeed', '336'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/Alsys Connect/Settings',
+        component: ComponentCreator('/alsys_admin_cards/Alsys Connect/Settings', 'fc7'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/Alsys Connect/User Profile',
+        component: ComponentCreator('/alsys_admin_cards/Alsys Connect/User Profile', 'bc8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/Alsys Connect/User Registration',
+        component: ComponentCreator('/alsys_admin_cards/Alsys Connect/User Registration', '8fe'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/category/alsys-admin',
+        component: ComponentCreator('/alsys_admin_cards/category/alsys-admin', '237'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys_admin_cards/category/alsys-connect',
+        component: ComponentCreator('/alsys_admin_cards/category/alsys-connect', 'a49'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      }
+    ]
   },
   {
     path: '*',

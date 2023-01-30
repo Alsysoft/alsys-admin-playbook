@@ -6,7 +6,7 @@
   "source": "@site/docs/Alsys Connect/Induction.md",
   "sourceDirName": "Alsys Connect",
   "slug": "/Alsys Connect/Induction",
-  "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Induction",
+  "permalink": "/alsys_admin_cards/next/Alsys Connect/Induction",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Newsfeed",
-    "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Newsfeed"
+    "permalink": "/alsys_admin_cards/next/Alsys Connect/Newsfeed"
   },
   "next": {
     "title": "Settings",
-    "permalink": "/alsys_admin_cards/docs/next/Alsys Connect/Settings"
+    "permalink": "/alsys_admin_cards/next/Alsys Connect/Settings"
   }
 }

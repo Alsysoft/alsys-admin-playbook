@@ -26,6 +26,7 @@ export default {
       "classic",
       {
         "docs": {
+          "routeBasePath": "/",
           "sidebarPath": "/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/sidebars.js"
         },
         "blog": {
@@ -48,6 +49,12 @@ export default {
         "src": "img/icon_ok.svg"
       },
       "items": [
+        {
+          "type": "doc",
+          "docId": "intro",
+          "position": "left",
+          "label": "Docs"
+        },
         {
           "type": "docsVersionDropdown",
           "position": "left",

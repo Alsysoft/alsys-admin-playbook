@@ -6,7 +6,7 @@
   "source": "@site/docs/Alsys Admin/Organization.md",
   "sourceDirName": "Alsys Admin",
   "slug": "/Alsys Admin/Organization",
-  "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Organization",
+  "permalink": "/alsys_admin_cards/next/Alsys Admin/Organization",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Time & Attendance",
-    "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Time & Attendance"
+    "permalink": "/alsys_admin_cards/next/Alsys Admin/Time & Attendance"
   },
   "next": {
     "title": "Alsys Connect",
-    "permalink": "/alsys_admin_cards/docs/next/category/alsys-connect"
+    "permalink": "/alsys_admin_cards/next/category/alsys-connect"
   }
 }

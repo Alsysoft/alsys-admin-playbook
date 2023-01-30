@@ -6,7 +6,7 @@
   "source": "@site/docs/Alsys Admin/Guide to Alsys Admin application.md",
   "sourceDirName": "Alsys Admin",
   "slug": "/Alsys Admin/Guide to Alsys Admin application",
-  "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/Guide to Alsys Admin application",
+  "permalink": "/alsys_admin_cards/next/Alsys Admin/Guide to Alsys Admin application",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Alsys Admin",
-    "permalink": "/alsys_admin_cards/docs/next/category/alsys-admin"
+    "permalink": "/alsys_admin_cards/next/category/alsys-admin"
   },
   "next": {
     "title": "User management",
-    "permalink": "/alsys_admin_cards/docs/next/Alsys Admin/User management"
+    "permalink": "/alsys_admin_cards/next/Alsys Admin/User management"
   }
 }
