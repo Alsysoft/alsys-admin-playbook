@@ -24,6 +24,8 @@ It includes features such as employee tracking, newsfeed, time and attendance as
 
 <p>Whether you are a new manager or a seasoned leader, this app will help streamline your team’s workflow, increase productivity and improve communication. So, let’s get started and take your team’s management to the next level! </p>
 
+<br/>
+
 import alsys_intro1 from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/alsys_intro.png';
 
 <img align="right" src={alsys_intro1} alt="alsys_intro1" width="400"/>
