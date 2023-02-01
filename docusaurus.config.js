@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Welcome to Alsys Playbook',
   tagline: 'by Alsys LTD',
-  url: 'https://tehciaktm.github.io',
+  url: 'https://alsysoft.github.io',
   baseUrl: '/alsys-admin-playbook/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'tehciaktm', // Usually your GitHub org/user name.
+  organizationName: 'Alsysoft', // Usually your GitHub org/user name.
   projectName: 'alsys-admin-playbook', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
