@@ -15,6 +15,7 @@ import userinvited from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/sta
 2. Navigate to the app store or Download from here: [iOS](https://www.apple.com/app-store/) or [Android](https://play.google.com/store/games?gl=RO) on your mobile device and search for <b>Alsys Connect</b>.
 3. Select the app from the search results and select "Install".
 4. Wait for the app to finish installing, then select "Open" to launch the app.
+<!-- tot de aici trebuie rescris. nu gasesc app in appstore si trebuie pus deeplink care sa duca la appstore -->
 
 ### <font color="gray">Registration</font>
 
