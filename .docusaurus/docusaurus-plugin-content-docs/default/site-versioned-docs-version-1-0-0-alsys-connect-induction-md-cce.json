@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/Induction.md",
   "sourceDirName": "Alsys Connect",
   "slug": "/Alsys Connect/Induction",
-  "permalink": "/alsys_admin_cards/Alsys Connect/Induction",
+  "permalink": "/alsys-admin-playbook/Alsys Connect/Induction",
   "draft": false,
   "tags": [],
   "version": "1.0.0",
@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Newsfeed",
-    "permalink": "/alsys_admin_cards/Alsys Connect/Newsfeed"
+    "title": "Health",
+    "permalink": "/alsys-admin-playbook/Alsys Connect/Health"
   },
   "next": {
-    "title": "Settings",
-    "permalink": "/alsys_admin_cards/Alsys Connect/Settings"
+    "title": "Newsfeed",
+    "permalink": "/alsys-admin-playbook/Alsys Connect/Newsfeed"
   }
 }

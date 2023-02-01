@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/alsys_admin_cards/next/",
+        "href": "/alsys-admin-playbook/next/",
         "docId": "intro"
       },
       {
@@ -24,47 +24,47 @@
           {
             "type": "link",
             "label": "Guide to Alsys Admin application",
-            "href": "/alsys_admin_cards/next/Alsys Admin/Guide to Alsys Admin application",
+            "href": "/alsys-admin-playbook/next/Alsys Admin/Guide to Alsys Admin application",
             "docId": "Alsys Admin/Guide to Alsys Admin application"
           },
           {
             "type": "link",
             "label": "User management",
-            "href": "/alsys_admin_cards/next/Alsys Admin/User management",
+            "href": "/alsys-admin-playbook/next/Alsys Admin/User management",
             "docId": "Alsys Admin/User management"
           },
           {
             "type": "link",
             "label": "Health",
-            "href": "/alsys_admin_cards/next/Alsys Admin/Health",
+            "href": "/alsys-admin-playbook/next/Alsys Admin/Health",
             "docId": "Alsys Admin/Health"
           },
           {
             "type": "link",
             "label": "Newsfeed",
-            "href": "/alsys_admin_cards/next/Alsys Admin/Newsfeed",
+            "href": "/alsys-admin-playbook/next/Alsys Admin/Newsfeed",
             "docId": "Alsys Admin/Newsfeed"
           },
           {
             "type": "link",
             "label": "Induction",
-            "href": "/alsys_admin_cards/next/Alsys Admin/Induction",
+            "href": "/alsys-admin-playbook/next/Alsys Admin/Induction",
             "docId": "Alsys Admin/Induction"
           },
           {
             "type": "link",
             "label": "Time & Attendance",
-            "href": "/alsys_admin_cards/next/Alsys Admin/Time & Attendance",
+            "href": "/alsys-admin-playbook/next/Alsys Admin/Time & Attendance",
             "docId": "Alsys Admin/Time & Attendance"
           },
           {
             "type": "link",
             "label": "Organization",
-            "href": "/alsys_admin_cards/next/Alsys Admin/Organization",
+            "href": "/alsys-admin-playbook/next/Alsys Admin/Organization",
             "docId": "Alsys Admin/Organization"
           }
         ],
-        "href": "/alsys_admin_cards/next/category/alsys-admin"
+        "href": "/alsys-admin-playbook/next/category/alsys-admin"
       },
       {
         "type": "category",
@@ -75,53 +75,53 @@
           {
             "type": "link",
             "label": "Guide to Mobile Application",
-            "href": "/alsys_admin_cards/next/Alsys Connect/Guide to Mobile Application",
+            "href": "/alsys-admin-playbook/next/Alsys Connect/Guide to Mobile Application",
             "docId": "Alsys Connect/Guide to Mobile Application"
           },
           {
             "type": "link",
             "label": "User Registration",
-            "href": "/alsys_admin_cards/next/Alsys Connect/User Registration",
+            "href": "/alsys-admin-playbook/next/Alsys Connect/User Registration",
             "docId": "Alsys Connect/User Registration"
           },
           {
             "type": "link",
             "label": "User Profile",
-            "href": "/alsys_admin_cards/next/Alsys Connect/User Profile",
+            "href": "/alsys-admin-playbook/next/Alsys Connect/User Profile",
             "docId": "Alsys Connect/User Profile"
           },
           {
             "type": "link",
             "label": "Home",
-            "href": "/alsys_admin_cards/next/Alsys Connect/Home",
+            "href": "/alsys-admin-playbook/next/Alsys Connect/Home",
             "docId": "Alsys Connect/Home"
           },
           {
             "type": "link",
             "label": "Health",
-            "href": "/alsys_admin_cards/next/Alsys Connect/Health",
+            "href": "/alsys-admin-playbook/next/Alsys Connect/Health",
             "docId": "Alsys Connect/Health"
           },
           {
             "type": "link",
-            "label": "Newsfeed",
-            "href": "/alsys_admin_cards/next/Alsys Connect/Newsfeed",
-            "docId": "Alsys Connect/Newsfeed"
-          },
-          {
-            "type": "link",
             "label": "Induction",
-            "href": "/alsys_admin_cards/next/Alsys Connect/Induction",
+            "href": "/alsys-admin-playbook/next/Alsys Connect/Induction",
             "docId": "Alsys Connect/Induction"
           },
           {
             "type": "link",
+            "label": "Newsfeed",
+            "href": "/alsys-admin-playbook/next/Alsys Connect/Newsfeed",
+            "docId": "Alsys Connect/Newsfeed"
+          },
+          {
+            "type": "link",
             "label": "Settings",
-            "href": "/alsys_admin_cards/next/Alsys Connect/Settings",
+            "href": "/alsys-admin-playbook/next/Alsys Connect/Settings",
             "docId": "Alsys Connect/Settings"
           }
         ],
-        "href": "/alsys_admin_cards/next/category/alsys-connect"
+        "href": "/alsys-admin-playbook/next/category/alsys-connect"
       }
     ]
   },

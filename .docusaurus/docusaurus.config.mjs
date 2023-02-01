@@ -7,12 +7,12 @@ export default {
   "title": "Welcome to Alsys Playbook",
   "tagline": "by Alsys LTD",
   "url": "https://tehciaktm.github.io",
-  "baseUrl": "/alsys_admin_cards/",
+  "baseUrl": "/alsys-admin-playbook/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "tehciaktm",
-  "projectName": "alsys_admin_cards",
+  "projectName": "alsys-admin-playbook",
   "i18n": {
     "defaultLocale": "en",
     "locales": [

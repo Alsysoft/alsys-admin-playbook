@@ -1,0 +1,15 @@
+{
+  "title": "Alsys Admin",
+  "slug": "/category/alsys-admin",
+  "permalink": "/alsys-admin-playbook/category/alsys-admin",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/alsys-admin-playbook/"
+    },
+    "next": {
+      "title": "Guide to Alsys Admin application",
+      "permalink": "/alsys-admin-playbook/Alsys Admin/Guide to Alsys Admin application"
+    }
+  }
+}

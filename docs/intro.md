@@ -18,7 +18,7 @@ import alsys_intro from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/sta
 
 <img align="left" src={alsys_intro} alt="alsys_intro" width="400"/>
 
-<p>Welcome to <b>Alsys Admin</b>! This app is designed to help managers easily manage and track their team’s progress and performance. 
+<p>Welcome to <b>Alsys Admin - Admin App</b>! This app is designed to help managers easily manage and track their team’s progress and performance. 
 It includes features such as employee tracking, newsfeed, time and attendance as well as setting up health and induction. It also allows managers to see real-time updates on the progress of their team’s tasks. </p>
 
 <p>With our app, managers are also provided with at-a-glance information as well as detailed information to help them make data-driven decisions. The app will also provide an easy way for managers to communicate with their team and give feedback.</p>
@@ -31,7 +31,7 @@ import alsys_intro1 from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/st
 
 <img align="right" src={alsys_intro1} alt="alsys_intro1" width="400"/>
 
-<p>Welcome to <b>Alsys Connect</b>, designed to provide the staff with a one-stop-shop for all your induction, health and safety, and newsfeed needs.</p>
+<p>Welcome to <b>Alsys Connect - User App</b>, designed to provide the staff with a one-stop-shop for all your induction, health and safety, and newsfeed needs.</p>
 
 <p>This app is designed to make it easy for you to access important information and stay up-to-date on the latest news and updates in your industry. With our app, you can complete your induction training, access important health and safety information, and stay informed on the latest news and developments in your field. </p>
 

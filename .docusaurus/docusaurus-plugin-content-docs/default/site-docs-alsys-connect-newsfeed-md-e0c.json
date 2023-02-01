@@ -6,21 +6,21 @@
   "source": "@site/docs/Alsys Connect/Newsfeed.md",
   "sourceDirName": "Alsys Connect",
   "slug": "/Alsys Connect/Newsfeed",
-  "permalink": "/alsys_admin_cards/next/Alsys Connect/Newsfeed",
+  "permalink": "/alsys-admin-playbook/next/Alsys Connect/Newsfeed",
   "draft": false,
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 7,
   "frontMatter": {
-    "sidebar_position": 6
+    "sidebar_position": 7
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Health",
-    "permalink": "/alsys_admin_cards/next/Alsys Connect/Health"
+    "title": "Induction",
+    "permalink": "/alsys-admin-playbook/next/Alsys Connect/Induction"
   },
   "next": {
-    "title": "Induction",
-    "permalink": "/alsys_admin_cards/next/Alsys Connect/Induction"
+    "title": "Settings",
+    "permalink": "/alsys-admin-playbook/next/Alsys Connect/Settings"
   }
 }

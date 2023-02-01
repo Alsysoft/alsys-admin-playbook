@@ -6,7 +6,7 @@
   "source": "@site/docs/Alsys Admin/User management.md",
   "sourceDirName": "Alsys Admin",
   "slug": "/Alsys Admin/User management",
-  "permalink": "/alsys_admin_cards/next/Alsys Admin/User management",
+  "permalink": "/alsys-admin-playbook/next/Alsys Admin/User management",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Guide to Alsys Admin application",
-    "permalink": "/alsys_admin_cards/next/Alsys Admin/Guide to Alsys Admin application"
+    "permalink": "/alsys-admin-playbook/next/Alsys Admin/Guide to Alsys Admin application"
   },
   "next": {
     "title": "Health",
-    "permalink": "/alsys_admin_cards/next/Alsys Admin/Health"
+    "permalink": "/alsys-admin-playbook/next/Alsys Admin/Health"
   }
 }

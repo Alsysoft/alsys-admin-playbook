@@ -3,19 +3,19 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "/alsys_admin_cards/blog/welcome"
+      "permalink": "/alsys-admin-playbook/blog/welcome"
     },
     {
       "title": "MDX Blog Post",
-      "permalink": "/alsys_admin_cards/blog/mdx-blog-post"
+      "permalink": "/alsys-admin-playbook/blog/mdx-blog-post"
     },
     {
       "title": "Long Blog Post",
-      "permalink": "/alsys_admin_cards/blog/long-blog-post"
+      "permalink": "/alsys-admin-playbook/blog/long-blog-post"
     },
     {
       "title": "First Blog Post",
-      "permalink": "/alsys_admin_cards/blog/first-blog-post"
+      "permalink": "/alsys-admin-playbook/blog/first-blog-post"
     }
   ]
 }
