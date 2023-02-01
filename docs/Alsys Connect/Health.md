@@ -2,15 +2,11 @@
 sidebar_position: 5
 ---
 
-
-
 ### <font color="gray">Health section as part of the Onboarding</font>
 
-1. New users install the User Application for the first time after they got invited into an organization and accept the invitation.
-2. They will go through the Onboarding (Induction and Health).
-3. When going through the Health section they will respond to the questionnaire previously set up by the admin.
-4. There aren't any correct or incorrect answers.
-5. All of them will be saved in the User Details in the Admin Application for later review.
+New users that accept a compay's invitation will go through the mandatory onboarding process (Induction and Health).
+
+Regarding the health part of the onboarding process, the new users will have to respond to a questionnaire previously set up by the company's administrator (there aren't any correct or incorrect answers). The users' answers will be saved and displayed in the User Details screen in the Admin Application for later review.
 
 import healthsts from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/healthsts.png'
 
@@ -18,7 +14,7 @@ import healthsts from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/stati
 
 ### <font color="gray">Health section in Home screen</font>
 
-When an update is being made, the user is notified and on the Home screen is displayed a notification badge, which will disappear when the user will complete the updated Health Section.
+When an update <!-- of the health questionnare --> is being made, the user is notified and on the Home screen is displayed a notification badge, which will disappear when the user will complete the updated Health Section.
 
 import healthhome from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/healthhome.png'
 

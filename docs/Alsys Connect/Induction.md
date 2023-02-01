@@ -9,7 +9,7 @@ sidebar_position: 6
 The Induction section contains important information about the organization and its health and safety measures that are mandatory for each user.
 
 It is displayed:
-* when a new user is added to the organization and it is part of the onboarding process, together with the Health section. 
+* when a new user whats to join a company. It is a part of the onboarding process, alongisde the Health section. 
 * in the Home screen.
 
 import indu1 from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/indu1.png';
