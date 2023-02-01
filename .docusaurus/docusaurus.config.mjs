@@ -10,7 +10,7 @@ export default {
   "baseUrl": "/alsys-admin-playbook/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/favicon.npmico",
   "organizationName": "tehciaktm",
   "projectName": "alsys-admin-playbook",
   "i18n": {
