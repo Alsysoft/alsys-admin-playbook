@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Alsys Connect/Health",
+  "id": "version-1.1.0/Alsys Connect/Health",
+  "title": "Health",
+  "description": "Health section as part of the Onboarding",
+  "source": "@site/versioned_docs/version-1.1.0/Alsys Connect/Health.md",
+  "sourceDirName": "Alsys Connect",
+  "slug": "/Alsys Connect/Health",
+  "permalink": "/alsys-admin-playbook/Alsys Connect/Health",
+  "draft": false,
+  "tags": [],
+  "version": "1.1.0",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/alsys-admin-playbook/Alsys Connect/Home"
+  },
+  "next": {
+    "title": "Induction",
+    "permalink": "/alsys-admin-playbook/Alsys Connect/Induction"
+  }
+}

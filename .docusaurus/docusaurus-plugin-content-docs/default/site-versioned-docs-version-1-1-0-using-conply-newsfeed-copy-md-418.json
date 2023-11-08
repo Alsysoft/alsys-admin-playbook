@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Using Conply/Newsfeed copy",
+  "id": "version-1.1.0/Using Conply/Newsfeed copy",
+  "title": "Newsfeed copy",
+  "description": "",
+  "source": "@site/versioned_docs/version-1.1.0/Using Conply/Newsfeed copy.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Newsfeed copy",
+  "permalink": "/alsys-admin-playbook/Using Conply/Newsfeed copy",
+  "draft": false,
+  "tags": [],
+  "version": "1.1.0",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User management",
+    "permalink": "/alsys-admin-playbook/Using Conply/User management"
+  },
+  "next": {
+    "title": "Newsfeed",
+    "permalink": "/alsys-admin-playbook/Using Conply/Newsfeed"
+  }
+}

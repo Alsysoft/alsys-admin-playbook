@@ -13,26 +13,37 @@ slug: /
 
 </summary>
 
+Welcome to the <b>Alsys Playbook</b>, where we bring together the best of both worlds: <b>Alsys Admin - Admin App</b> and <b>Alsys Connect - User App</b>. 
 
-import alsys_intro from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/alsys_intro.png';
+With this powerful combination, you have all the tools you need to excel in your managerial role and stay informed as a staff member.
 
-<img align="left" src={alsys_intro} alt="alsys_intro" width="400"/>
+For Managers:
 
-<p>Welcome to <b>Alsys Admin - Admin App</b>! This app is designed to help managers easily manage and track their team’s progress and performance. 
-It includes features such as employee tracking, newsfeed, time and attendance as well as setting up health and induction. It also allows managers to see real-time updates on the progress of their team’s tasks. </p>
+📊 Effortless Team Management: Keep tabs on your team's progress and performance with Alsys Admin.
 
-<p>With our app, managers are also provided with at-a-glance information as well as detailed information to help them make data-driven decisions. The app will also provide an easy way for managers to communicate with their team and give feedback.</p>
+👥 Employee Tracking: Stay updated on your team's activities effortlessly.
 
-<p>Whether you are a new manager or a seasoned leader, this app will help streamline your team’s workflow, increase productivity and improve communication. So, let’s get started and take your team’s management to the next level! </p>
+📰 Newsfeed: Access industry news and updates seamlessly.
 
-<br/>
+⏰ Time and Attendance: Manage schedules and attendance with ease.
 
-import alsys_intro1 from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/alsys_intro.png';
+🏥 Health and Induction Setup: Simplify onboarding processes for your team.
 
-<img align="right" src={alsys_intro1} alt="alsys_intro1" width="400"/>
+📈 Real-Time Updates: Get instant insights into task progress and team performance.
 
-<p>Welcome to <b>Alsys Connect - User App</b>, designed to provide the staff with a one-stop-shop for all your induction, health and safety, and newsfeed needs.</p>
+🗣️ Communication Hub: Connect and provide feedback effortlessly.
 
-<p>This app is designed to make it easy for you to access important information and stay up-to-date on the latest news and updates in your industry. With our app, you can complete your induction training, access important health and safety information, and stay informed on the latest news and developments in your field. </p>
+For Staff Members:
 
-<p>Whether you're a new employee or a seasoned professional, our app is the perfect tool to help you stay informed and stay safe on the job. </p>
+🚀 Onboarding: Embark on a smooth onboarding journey with Alsys Connect.
+
+🎓 Induction Training: Complete your induction training hassle-free.
+
+⚕️ Health and Safety: Access important safety information effortlessly.
+
+📰 Newsfeed Updates: Stay informed about industry news and developments.
+
+This playbook serves as a comprehensive reference guide designed to assist you when you need support. Inside, you will find detailed documentation and resources that can help address your questions and concerns. Consider this playbook as your go-to manual for accessing the support you require.
+
+Experience the power of Alsys technology, and let's elevate your workplace experience together! 🚀
+

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Using Conply/Guide to Alsys Admin application",
+  "id": "version-1.1.0/Using Conply/Guide to Alsys Admin application",
+  "title": "Guide to Alsys Admin application",
+  "description": "Getting started on Alsys Admn tablet app",
+  "source": "@site/versioned_docs/version-1.1.0/Using Conply/Guide to Alsys Admin application.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Guide to Alsys Admin application",
+  "permalink": "/alsys-admin-playbook/Using Conply/Guide to Alsys Admin application",
+  "draft": false,
+  "tags": [],
+  "version": "1.1.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Using Conply",
+    "permalink": "/alsys-admin-playbook/category/using-conply"
+  },
+  "next": {
+    "title": "User management",
+    "permalink": "/alsys-admin-playbook/Using Conply/User management"
+  }
+}

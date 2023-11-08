@@ -14,7 +14,7 @@ slug: /
 </summary>
 
 
-import alsys_intro from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/alsys_intro.png';
+import alsys_intro from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/admin-app1.png';
 
 <img align="left" src={alsys_intro} alt="alsys_intro" width="400"/>
 
@@ -27,7 +27,7 @@ It includes features such as employee tracking, newsfeed, time and attendance as
 
 <br/>
 
-import alsys_intro1 from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/alsys_intro.png';
+import alsys_intro1 from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/user-app1.png';
 
 <img align="right" src={alsys_intro1} alt="alsys_intro1" width="400"/>
 

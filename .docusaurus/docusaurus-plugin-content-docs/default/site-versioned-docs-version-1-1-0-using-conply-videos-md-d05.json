@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Using Conply/Videos",
+  "id": "version-1.1.0/Using Conply/Videos",
+  "title": "Videos",
+  "description": "",
+  "source": "@site/versioned_docs/version-1.1.0/Using Conply/Videos.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Videos",
+  "permalink": "/alsys-admin-playbook/Using Conply/Videos",
+  "draft": false,
+  "tags": [],
+  "version": "1.1.0",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Induction",
+    "permalink": "/alsys-admin-playbook/Using Conply/Induction"
+  },
+  "next": {
+    "title": "Conply Mobile App",
+    "permalink": "/alsys-admin-playbook/category/conply-mobile-app"
+  }
+}

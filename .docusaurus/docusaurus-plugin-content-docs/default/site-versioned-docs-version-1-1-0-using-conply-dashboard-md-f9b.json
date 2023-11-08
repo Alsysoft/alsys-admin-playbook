@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Using Conply/Dashboard",
+  "id": "version-1.1.0/Using Conply/Dashboard",
+  "title": "Dashboard",
+  "description": "Dashboard Overview",
+  "source": "@site/versioned_docs/version-1.1.0/Using Conply/Dashboard.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Dashboard",
+  "permalink": "/alsys-admin-playbook/Using Conply/Dashboard",
+  "draft": false,
+  "tags": [],
+  "version": "1.1.0",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Setting up Account",
+    "permalink": "/alsys-admin-playbook/Using Conply/Organization/Setting up Account"
+  },
+  "next": {
+    "title": "User management",
+    "permalink": "/alsys-admin-playbook/Using Conply/User management"
+  }
+}

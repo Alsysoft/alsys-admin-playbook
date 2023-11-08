@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Induction.md",
   "sourceDirName": "Alsys Admin",
   "slug": "/Alsys Admin/Induction",
-  "permalink": "/alsys-admin-playbook/Alsys Admin/Induction",
+  "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Induction",
   "draft": false,
   "tags": [],
   "version": "1.0.0",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Newsfeed",
-    "permalink": "/alsys-admin-playbook/Alsys Admin/Newsfeed"
+    "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Newsfeed"
   },
   "next": {
     "title": "Time & Attendance",
-    "permalink": "/alsys-admin-playbook/Alsys Admin/Time & Attendance"
+    "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Time & Attendance"
   }
 }

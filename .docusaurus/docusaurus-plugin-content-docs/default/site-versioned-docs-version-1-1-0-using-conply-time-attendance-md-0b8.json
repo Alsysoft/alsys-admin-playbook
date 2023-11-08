@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Using Conply/Time & Attendance",
+  "id": "version-1.1.0/Using Conply/Time & Attendance",
+  "title": "Time & Attendance",
+  "description": "Time & Attendance",
+  "source": "@site/versioned_docs/version-1.1.0/Using Conply/Time & Attendance.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Time & Attendance",
+  "permalink": "/alsys-admin-playbook/Using Conply/Time & Attendance",
+  "draft": false,
+  "tags": [],
+  "version": "1.1.0",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Newsfeed",
+    "permalink": "/alsys-admin-playbook/Using Conply/Newsfeed"
+  },
+  "next": {
+    "title": "Health",
+    "permalink": "/alsys-admin-playbook/Using Conply/Health"
+  }
+}

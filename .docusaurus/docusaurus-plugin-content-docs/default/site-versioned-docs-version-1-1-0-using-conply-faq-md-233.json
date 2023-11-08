@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Using Conply/FAQ",
+  "id": "version-1.1.0/Using Conply/FAQ",
+  "title": "FAQ",
+  "description": "How do I download the app on my mobile device?",
+  "source": "@site/versioned_docs/version-1.1.0/Using Conply/FAQ.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/FAQ",
+  "permalink": "/alsys-admin-playbook/Using Conply/FAQ",
+  "draft": false,
+  "tags": [],
+  "version": "1.1.0",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Induction",
+    "permalink": "/alsys-admin-playbook/Using Conply/Induction"
+  },
+  "next": {
+    "title": "Get Support",
+    "permalink": "/alsys-admin-playbook/Using Conply/Get Support"
+  }
+}

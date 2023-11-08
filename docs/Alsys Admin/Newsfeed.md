@@ -57,3 +57,4 @@ import preview from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/
 
 <img src={preview} alt="preview" />
 
+

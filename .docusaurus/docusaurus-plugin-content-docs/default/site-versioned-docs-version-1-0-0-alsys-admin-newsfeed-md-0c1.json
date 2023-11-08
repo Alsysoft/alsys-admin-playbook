@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Newsfeed.md",
   "sourceDirName": "Alsys Admin",
   "slug": "/Alsys Admin/Newsfeed",
-  "permalink": "/alsys-admin-playbook/Alsys Admin/Newsfeed",
+  "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Newsfeed",
   "draft": false,
   "tags": [],
   "version": "1.0.0",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Health",
-    "permalink": "/alsys-admin-playbook/Alsys Admin/Health"
+    "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Health"
   },
   "next": {
     "title": "Induction",
-    "permalink": "/alsys-admin-playbook/Alsys Admin/Induction"
+    "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Induction"
   }
 }

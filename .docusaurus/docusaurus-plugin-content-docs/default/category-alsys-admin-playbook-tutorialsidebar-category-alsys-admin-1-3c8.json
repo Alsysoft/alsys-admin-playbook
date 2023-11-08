@@ -1,0 +1,16 @@
+{
+  "title": "Alsys Admin",
+  "description": "description",
+  "slug": "/category/alsys-admin-1",
+  "permalink": "/alsys-admin-playbook/category/alsys-admin-1",
+  "navigation": {
+    "previous": {
+      "title": "Organization",
+      "permalink": "/alsys-admin-playbook/Alsys Admin/Organization"
+    },
+    "next": {
+      "title": "Guide to Alsys Admin application",
+      "permalink": "/alsys-admin-playbook/Using Conply/Guide to Alsys Admin application"
+    }
+  }
+}

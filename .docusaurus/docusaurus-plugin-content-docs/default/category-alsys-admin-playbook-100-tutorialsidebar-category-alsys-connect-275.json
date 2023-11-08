@@ -1,0 +1,15 @@
+{
+  "title": "Alsys Connect",
+  "slug": "/category/alsys-connect",
+  "permalink": "/alsys-admin-playbook/1.0.0/category/alsys-connect",
+  "navigation": {
+    "previous": {
+      "title": "Organization",
+      "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Organization"
+    },
+    "next": {
+      "title": "Guide to Mobile Application",
+      "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Guide to Mobile Application"
+    }
+  }
+}
