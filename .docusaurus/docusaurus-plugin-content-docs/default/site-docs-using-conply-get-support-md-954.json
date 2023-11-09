@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Using Conply/Get Support",
+  "id": "Using Conply/Get Support",
+  "title": "Get Support",
+  "description": "Our dedicated support team is here to help you every step of the way. To get started, follow the link below to access our effective help desk, where you can easily create tickets for your specific issues.",
+  "source": "@site/docs/Using Conply/Get Support.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Get Support",
+  "permalink": "/alsys-admin-playbook/next/Using Conply/Get Support",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FAQ",
+    "permalink": "/alsys-admin-playbook/next/Using Conply/FAQ"
+  },
+  "next": {
+    "title": "Alsys Connect",
+    "permalink": "/alsys-admin-playbook/next/category/alsys-connect"
+  }
+}

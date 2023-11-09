@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Using Conply/Induction",
+  "id": "Using Conply/Induction",
+  "title": "Induction",
+  "description": "Inductions in the application can be categorized into General and Specific, each serving a distinct purpose.",
+  "source": "@site/docs/Using Conply/Induction.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Induction",
+  "permalink": "/alsys-admin-playbook/next/Using Conply/Induction",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Health",
+    "permalink": "/alsys-admin-playbook/next/Using Conply/Health"
+  },
+  "next": {
+    "title": "FAQ",
+    "permalink": "/alsys-admin-playbook/next/Using Conply/FAQ"
+  }
+}

@@ -6,44 +6,38 @@ slug: /
 ---
 
 <summary>
+<h1>Welcome to the Conply User Guide</h1>
 <h2>Remote Onboarding,
  Health & Safety and
  Personnel Management</h2>
-
-
 </summary>
 
-Welcome to the <b>Alsys Playbook</b>, where we bring together the best of both worlds: <b>Alsys Admin - Admin App</b> and <b>Alsys Connect - User App</b>. 
+Welcome to the Conply User Guide, your comprehensive resource for navigating Conply, the versatile solution that empowers both managers and employees. Conply offers a dual functionality, serving as a web-based management tool for managers and a mobile app for employees, creating a seamless ecosystem for remote onboarding, health and safety management, and personnel oversight.
 
-With this powerful combination, you have all the tools you need to excel in your managerial role and stay informed as a staff member.
+<h3>In this guide, you can expect:</h3>
 
-For Managers:
+<h4>Application Overview</h4>
+<p>An in-depth look at Conply's capabilities and how they cater to the unique needs of managers and employees.</p>
 
-📊 Effortless Team Management: Keep tabs on your team's progress and performance with Alsys Admin.
+<h4>Key Features</h4>
+<p>Detailed explanations of the essential features, highlighting their relevance and utility to each user group, whether you're a manager making data-driven decisions or an employee staying informed and engaged.</p>
 
-👥 Employee Tracking: Stay updated on your team's activities effortlessly.
+<h4>User Instructions</h4>
+<p>Step-by-step guidance for managers on utilizing the web-based management tool and for employees on effectively using the mobile app, ensuring a user-friendly experience for all.</p>
 
-📰 Newsfeed: Access industry news and updates seamlessly.
+<h4>Best Practices</h4>
+<p>Tailored tips and recommendations for both managers and employees to maximize productivity, safety, and communication within Conply.</p>
 
-⏰ Time and Attendance: Manage schedules and attendance with ease.
+<h4>Troubleshooting</h4>
+<p>Solutions to common issues and challenges faced by both user groups while using Conply.</p>
 
-🏥 Health and Induction Setup: Simplify onboarding processes for your team.
+<br/>
 
-📈 Real-Time Updates: Get instant insights into task progress and team performance.
+<p>By the end of this user guide, you'll be well-prepared to harness the full potential of Conply, whether you're a manager seeking to streamline operations or an employee looking to stay connected and informed. Let's embark on this journey together and leverage Conply to elevate your team's management and communication to new heights.</p>
 
-🗣️ Communication Hub: Connect and provide feedback effortlessly.
+<h4>Stay informed and stay safe with</h4>
 
-For Staff Members:
+import conply_banner from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/conply_banner.png';
 
-🚀 Onboarding: Embark on a smooth onboarding journey with Alsys Connect.
-
-🎓 Induction Training: Complete your induction training hassle-free.
-
-⚕️ Health and Safety: Access important safety information effortlessly.
-
-📰 Newsfeed Updates: Stay informed about industry news and developments.
-
-This playbook serves as a comprehensive reference guide designed to assist you when you need support. Inside, you will find detailed documentation and resources that can help address your questions and concerns. Consider this playbook as your go-to manual for accessing the support you require.
-
-Experience the power of Alsys technology, and let's elevate your workplace experience together! 🚀
+<img align="center" src={conply_banner} alt="conply_banner" width="400" height="160"/>
 

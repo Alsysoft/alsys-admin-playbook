@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Using Conply/Newsfeed",
+  "id": "Using Conply/Newsfeed",
+  "title": "Newsfeed",
+  "description": "Introduction",
+  "source": "@site/docs/Using Conply/Newsfeed.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Newsfeed",
+  "permalink": "/alsys-admin-playbook/next/Using Conply/Newsfeed",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "User management",
+    "permalink": "/alsys-admin-playbook/next/Using Conply/User management"
+  },
+  "next": {
+    "title": "Time & Attendance",
+    "permalink": "/alsys-admin-playbook/next/Using Conply/Time & Attendance"
+  }
+}

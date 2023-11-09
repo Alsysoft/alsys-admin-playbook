@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Using Conply/Organization/Setting up Account",
+  "id": "Using Conply/Organization/Setting up Account",
+  "title": "Setting up Account",
+  "description": "No setup needed for now.",
+  "source": "@site/docs/Using Conply/Organization/Setting up Account.md",
+  "sourceDirName": "Using Conply/Organization",
+  "slug": "/Using Conply/Organization/Setting up Account",
+  "permalink": "/alsys-admin-playbook/next/Using Conply/Organization/Setting up Account",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Organization",
+    "permalink": "/alsys-admin-playbook/next/category/organization"
+  },
+  "next": {
+    "title": "Dashboard",
+    "permalink": "/alsys-admin-playbook/next/Using Conply/Dashboard"
+  }
+}

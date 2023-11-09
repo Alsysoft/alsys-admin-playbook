@@ -2,7 +2,7 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Introduction",
-  "description": "Remote Onboarding,",
+  "description": "Welcome to the Conply User Guide",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/",

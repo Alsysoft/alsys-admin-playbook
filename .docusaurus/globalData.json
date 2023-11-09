@@ -86,8 +86,78 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Conply Mobile App/Home",
+              "path": "/alsys-admin-playbook/next/Conply Mobile App/Home",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Conply Mobile App/Onboarding",
+              "path": "/alsys-admin-playbook/next/Conply Mobile App/Onboarding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Conply Mobile App/Profile",
+              "path": "/alsys-admin-playbook/next/Conply Mobile App/Profile",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Conply Mobile App/Users",
+              "path": "/alsys-admin-playbook/next/Conply Mobile App/Users",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/alsys-admin-playbook/next/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/Creating an Account",
+              "path": "/alsys-admin-playbook/next/Using Conply/Creating an Account",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/Dashboard",
+              "path": "/alsys-admin-playbook/next/Using Conply/Dashboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/FAQ",
+              "path": "/alsys-admin-playbook/next/Using Conply/FAQ",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/Get Support",
+              "path": "/alsys-admin-playbook/next/Using Conply/Get Support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/Health",
+              "path": "/alsys-admin-playbook/next/Using Conply/Health",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/Induction",
+              "path": "/alsys-admin-playbook/next/Using Conply/Induction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/Newsfeed",
+              "path": "/alsys-admin-playbook/next/Using Conply/Newsfeed",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/Organization/Setting up Account",
+              "path": "/alsys-admin-playbook/next/Using Conply/Organization/Setting up Account",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/Time & Attendance",
+              "path": "/alsys-admin-playbook/next/Using Conply/Time & Attendance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Conply/User management",
+              "path": "/alsys-admin-playbook/next/Using Conply/User management",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -96,8 +166,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "/category/using-conply",
+              "path": "/alsys-admin-playbook/next/category/using-conply",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/organization",
+              "path": "/alsys-admin-playbook/next/category/organization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/alsys-connect",
               "path": "/alsys-admin-playbook/next/category/alsys-connect",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/conply-mobile-app",
+              "path": "/alsys-admin-playbook/next/category/conply-mobile-app",
               "sidebar": "tutorialSidebar"
             }
           ],
