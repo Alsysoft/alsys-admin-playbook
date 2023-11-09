@@ -116,6 +116,12 @@
             "label": "Profile",
             "href": "/alsys-admin-playbook/Conply Mobile App/Profile",
             "docId": "Conply Mobile App/Profile"
+          },
+          {
+            "type": "link",
+            "label": "Users",
+            "href": "/alsys-admin-playbook/Conply Mobile App/Users",
+            "docId": "Conply Mobile App/Users"
           }
         ],
         "href": "/alsys-admin-playbook/category/conply-mobile-app"
@@ -126,19 +132,25 @@
     "Conply Mobile App/Home": {
       "id": "Conply Mobile App/Home",
       "title": "Home",
-      "description": "",
+      "description": "Quick Overview",
       "sidebar": "tutorialSidebar"
     },
     "Conply Mobile App/Onboarding": {
       "id": "Conply Mobile App/Onboarding",
       "title": "Onboarding",
-      "description": "",
+      "description": "Introduction",
       "sidebar": "tutorialSidebar"
     },
     "Conply Mobile App/Profile": {
       "id": "Conply Mobile App/Profile",
       "title": "Profile",
-      "description": "",
+      "description": "Your Identity",
+      "sidebar": "tutorialSidebar"
+    },
+    "Conply Mobile App/Users": {
+      "id": "Conply Mobile App/Users",
+      "title": "Users",
+      "description": "The following features are accessible only for admin accounts on the Conply Mobile App. Normal users will not have access to these functionalities.",
       "sidebar": "tutorialSidebar"
     },
     "intro": {

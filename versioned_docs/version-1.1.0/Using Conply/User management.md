@@ -83,11 +83,5 @@ import conply_remove_user from '/Users/tehciaktm/Documents/GitHub/alsys_admin_ca
 
 <img src={conply_remove_user} alt="conply_remove_user"/>
 
-
-
-
-
-
-
-
-
+<h2>Mobile Access</h2>
+<p>This user management feature is not just limited to the web. You can also manage your users conveniently on the go using our Conply Mobile App. For more details and instructions, refer to the Conply Mobile App section.</p>

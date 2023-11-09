@@ -332,7 +332,7 @@ export default [
   },
   {
     path: '/alsys-admin-playbook/',
-    component: ComponentCreator('/alsys-admin-playbook/', 'fca'),
+    component: ComponentCreator('/alsys-admin-playbook/', '5d2'),
     routes: [
       {
         path: '/alsys-admin-playbook/',
@@ -373,6 +373,12 @@ export default [
       {
         path: '/alsys-admin-playbook/Conply Mobile App/Profile',
         component: ComponentCreator('/alsys-admin-playbook/Conply Mobile App/Profile', '761'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/Conply Mobile App/Users',
+        component: ComponentCreator('/alsys-admin-playbook/Conply Mobile App/Users', '3ac'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

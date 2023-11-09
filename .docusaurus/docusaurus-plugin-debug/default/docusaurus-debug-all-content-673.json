@@ -545,7 +545,7 @@
               "unversionedId": "Conply Mobile App/Home",
               "id": "version-1.1.0/Conply Mobile App/Home",
               "title": "Home",
-              "description": "",
+              "description": "Quick Overview",
               "source": "@site/versioned_docs/version-1.1.0/Conply Mobile App/Home.md",
               "sourceDirName": "Conply Mobile App",
               "slug": "/Conply Mobile App/Home",
@@ -571,7 +571,7 @@
               "unversionedId": "Conply Mobile App/Onboarding",
               "id": "version-1.1.0/Conply Mobile App/Onboarding",
               "title": "Onboarding",
-              "description": "",
+              "description": "Introduction",
               "source": "@site/versioned_docs/version-1.1.0/Conply Mobile App/Onboarding.md",
               "sourceDirName": "Conply Mobile App",
               "slug": "/Conply Mobile App/Onboarding",
@@ -597,7 +597,7 @@
               "unversionedId": "Conply Mobile App/Profile",
               "id": "version-1.1.0/Conply Mobile App/Profile",
               "title": "Profile",
-              "description": "",
+              "description": "Your Identity",
               "source": "@site/versioned_docs/version-1.1.0/Conply Mobile App/Profile.md",
               "sourceDirName": "Conply Mobile App",
               "slug": "/Conply Mobile App/Profile",
@@ -613,6 +613,32 @@
               "previous": {
                 "title": "Home",
                 "permalink": "/alsys-admin-playbook/Conply Mobile App/Home"
+              },
+              "next": {
+                "title": "Users",
+                "permalink": "/alsys-admin-playbook/Conply Mobile App/Users"
+              }
+            },
+            {
+              "unversionedId": "Conply Mobile App/Users",
+              "id": "version-1.1.0/Conply Mobile App/Users",
+              "title": "Users",
+              "description": "The following features are accessible only for admin accounts on the Conply Mobile App. Normal users will not have access to these functionalities.",
+              "source": "@site/versioned_docs/version-1.1.0/Conply Mobile App/Users.md",
+              "sourceDirName": "Conply Mobile App",
+              "slug": "/Conply Mobile App/Users",
+              "permalink": "/alsys-admin-playbook/Conply Mobile App/Users",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Profile",
+                "permalink": "/alsys-admin-playbook/Conply Mobile App/Profile"
               }
             },
             {
@@ -992,11 +1018,14 @@
                   {
                     "type": "doc",
                     "id": "version-1.1.0/Conply Mobile App/Profile"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-1.1.0/Conply Mobile App/Users"
                   }
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "Topics",
                   "slug": "/category/conply-mobile-app",
                   "permalink": "/alsys-admin-playbook/category/conply-mobile-app"
                 }

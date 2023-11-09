@@ -2,7 +2,7 @@
   "unversionedId": "Conply Mobile App/Profile",
   "id": "version-1.1.0/Conply Mobile App/Profile",
   "title": "Profile",
-  "description": "",
+  "description": "Your Identity",
   "source": "@site/versioned_docs/version-1.1.0/Conply Mobile App/Profile.md",
   "sourceDirName": "Conply Mobile App",
   "slug": "/Conply Mobile App/Profile",
@@ -18,5 +18,9 @@
   "previous": {
     "title": "Home",
     "permalink": "/alsys-admin-playbook/Conply Mobile App/Home"
+  },
+  "next": {
+    "title": "Users",
+    "permalink": "/alsys-admin-playbook/Conply Mobile App/Users"
   }
 }
