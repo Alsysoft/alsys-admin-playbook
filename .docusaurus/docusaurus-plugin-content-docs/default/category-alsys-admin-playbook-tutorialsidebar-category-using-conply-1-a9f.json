@@ -1,0 +1,16 @@
+{
+  "title": "Using Conply",
+  "description": "Topics",
+  "slug": "/category/using-conply-1",
+  "permalink": "/alsys-admin-playbook/category/using-conply-1",
+  "navigation": {
+    "previous": {
+      "title": "Conply Mobile App",
+      "permalink": "/alsys-admin-playbook/Conply Mobile App/"
+    },
+    "next": {
+      "title": "Creating an Account",
+      "permalink": "/alsys-admin-playbook/Using Conply/Creating an Account"
+    }
+  }
+}

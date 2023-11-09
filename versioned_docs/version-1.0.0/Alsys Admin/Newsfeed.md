@@ -17,6 +17,9 @@ import nf1 from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/
 
 <img src={nf1} alt="nf1" />
 
+
+
+
 ### <font color="gray">How to create a post</font>
 
 1. Tap on "+" button which will open the Posts management list displayed in Active and Inactive.

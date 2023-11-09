@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Using Conply/Health copy",
+  "id": "version-1.1.0/Using Conply/Health copy",
+  "title": "Health copy",
+  "description": "",
+  "source": "@site/versioned_docs/version-1.1.0/Using Conply/Health copy.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Health copy",
+  "permalink": "/alsys-admin-playbook/Using Conply/Health copy",
+  "draft": false,
+  "tags": [],
+  "version": "1.1.0",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "iPhone and iPad Apps",
+    "permalink": "/alsys-admin-playbook/Using Conply/Conply Mobile App/iPhone and iPad Apps"
+  },
+  "next": {
+    "title": "Health",
+    "permalink": "/alsys-admin-playbook/Using Conply/Health"
+  }
+}

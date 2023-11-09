@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Using Conply/User management",
+  "id": "Using Conply/User management",
+  "title": "User management",
+  "description": "How to use the platform to effectively manage your users.",
+  "source": "@site/docs/Using Conply/User management.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/User management",
+  "permalink": "/alsys-admin-playbook/next/Using Conply/User management",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dashboard",
+    "permalink": "/alsys-admin-playbook/next/Using Conply/Dashboard"
+  },
+  "next": {
+    "title": "Newsfeed",
+    "permalink": "/alsys-admin-playbook/next/Using Conply/Newsfeed"
+  }
+}

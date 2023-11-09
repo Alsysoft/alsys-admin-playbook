@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Using Conply/Health",
+  "id": "Using Conply/Health",
+  "title": "Health",
+  "description": "Setting Up the Health Section for Onboarding",
+  "source": "@site/docs/Using Conply/Health.md",
+  "sourceDirName": "Using Conply",
+  "slug": "/Using Conply/Health",
+  "permalink": "/alsys-admin-playbook/next/Using Conply/Health",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Time & Attendance",
+    "permalink": "/alsys-admin-playbook/next/Using Conply/Time & Attendance"
+  },
+  "next": {
+    "title": "Induction",
+    "permalink": "/alsys-admin-playbook/next/Using Conply/Induction"
+  }
+}

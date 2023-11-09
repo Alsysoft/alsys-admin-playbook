@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Conply mobile App/Android App",
+  "id": "version-1.1.0/Conply mobile App/Android App",
+  "title": "Android App",
+  "description": "",
+  "source": "@site/versioned_docs/version-1.1.0/Conply mobile App/Android App.md",
+  "sourceDirName": "Conply mobile App",
+  "slug": "/Conply mobile App/Android App",
+  "permalink": "/alsys-admin-playbook/Conply mobile App/Android App",
+  "draft": false,
+  "tags": [],
+  "version": "1.1.0",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conply Mobile App",
+    "permalink": "/alsys-admin-playbook/category/conply-mobile-app"
+  },
+  "next": {
+    "title": "iPhone and iPad Apps",
+    "permalink": "/alsys-admin-playbook/Conply mobile App/iPhone and iPad Apps"
+  }
+}

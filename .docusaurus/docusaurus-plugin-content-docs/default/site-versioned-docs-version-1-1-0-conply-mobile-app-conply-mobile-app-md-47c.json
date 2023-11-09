@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Conply Mobile App/Conply Mobile App",
+  "id": "version-1.1.0/Conply Mobile App/Conply Mobile App",
+  "title": "Conply Mobile App",
+  "description": "How do I find the latest version of Conply App and update?",
+  "source": "@site/versioned_docs/version-1.1.0/Conply Mobile App/Conply Mobile App.md",
+  "sourceDirName": "Conply Mobile App",
+  "slug": "/Conply Mobile App/",
+  "permalink": "/alsys-admin-playbook/Conply Mobile App/",
+  "draft": false,
+  "tags": [],
+  "version": "1.1.0",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conply Mobile App",
+    "permalink": "/alsys-admin-playbook/category/conply-mobile-app"
+  },
+  "next": {
+    "title": "Using Conply",
+    "permalink": "/alsys-admin-playbook/category/using-conply"
+  }
+}

@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/Newsfeed.md",
   "sourceDirName": "Alsys Connect",
   "slug": "/Alsys Connect/Newsfeed",
-  "permalink": "/alsys-admin-playbook/Alsys Connect/Newsfeed",
+  "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Newsfeed",
   "draft": false,
   "tags": [],
   "version": "1.0.0",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Induction",
-    "permalink": "/alsys-admin-playbook/Alsys Connect/Induction"
+    "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Induction"
   },
   "next": {
     "title": "Settings",
-    "permalink": "/alsys-admin-playbook/Alsys Connect/Settings"
+    "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Settings"
   }
 }

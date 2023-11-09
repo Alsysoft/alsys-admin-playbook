@@ -1,11 +1,12 @@
 {
   "title": "Alsys Connect",
+  "description": "description should not appear. report this.",
   "slug": "/category/alsys-connect",
   "permalink": "/alsys-admin-playbook/category/alsys-connect",
   "navigation": {
     "previous": {
-      "title": "Organization",
-      "permalink": "/alsys-admin-playbook/Alsys Admin/Organization"
+      "title": "iPhone and iPad Apps",
+      "permalink": "/alsys-admin-playbook/Using Conply/Conply Mobile App/iPhone and iPad Apps"
     },
     "next": {
       "title": "Guide to Mobile Application",

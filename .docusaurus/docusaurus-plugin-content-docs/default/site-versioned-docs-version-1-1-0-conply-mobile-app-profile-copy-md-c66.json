@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Conply Mobile App/Profile copy",
+  "id": "version-1.1.0/Conply Mobile App/Profile copy",
+  "title": "Profile copy",
+  "description": "Your Identity",
+  "source": "@site/versioned_docs/version-1.1.0/Conply Mobile App/Profile copy.md",
+  "sourceDirName": "Conply Mobile App",
+  "slug": "/Conply Mobile App/Profile copy",
+  "permalink": "/alsys-admin-playbook/Conply Mobile App/Profile copy",
+  "draft": false,
+  "tags": [],
+  "version": "1.1.0",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/alsys-admin-playbook/Conply Mobile App/Home"
+  },
+  "next": {
+    "title": "Profile",
+    "permalink": "/alsys-admin-playbook/Conply Mobile App/Profile"
+  }
+}

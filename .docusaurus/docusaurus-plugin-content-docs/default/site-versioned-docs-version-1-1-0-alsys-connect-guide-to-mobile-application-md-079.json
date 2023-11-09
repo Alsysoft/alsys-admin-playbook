@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Alsys Connect/Guide to Mobile Application",
+  "id": "version-1.1.0/Alsys Connect/Guide to Mobile Application",
+  "title": "Guide to Mobile Application",
+  "description": "Getting started on Alsys Connect Mobile app",
+  "source": "@site/versioned_docs/version-1.1.0/Alsys Connect/Guide to Mobile Application.md",
+  "sourceDirName": "Alsys Connect",
+  "slug": "/Alsys Connect/Guide to Mobile Application",
+  "permalink": "/alsys-admin-playbook/Alsys Connect/Guide to Mobile Application",
+  "draft": false,
+  "tags": [],
+  "version": "1.1.0",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Alsys Connect",
+    "permalink": "/alsys-admin-playbook/category/alsys-connect"
+  },
+  "next": {
+    "title": "User Registration",
+    "permalink": "/alsys-admin-playbook/Alsys Connect/User Registration"
+  }
+}

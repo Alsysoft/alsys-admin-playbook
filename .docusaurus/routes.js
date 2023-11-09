@@ -68,8 +68,122 @@ export default [
     exact: true
   },
   {
+    path: '/alsys-admin-playbook/1.0.0',
+    component: ComponentCreator('/alsys-admin-playbook/1.0.0', '28b'),
+    routes: [
+      {
+        path: '/alsys-admin-playbook/1.0.0/',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/', 'bee'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/Alsys Admin/Guide to Alsys Admin application',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/Alsys Admin/Guide to Alsys Admin application', '14e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/Alsys Admin/Health',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/Alsys Admin/Health', 'e7b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/Alsys Admin/Induction',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/Alsys Admin/Induction', '47c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/Alsys Admin/Newsfeed',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/Alsys Admin/Newsfeed', 'cb3'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/Alsys Admin/Organization',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/Alsys Admin/Organization', '232'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/Alsys Admin/Time & Attendance',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/Alsys Admin/Time & Attendance', '121'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/Alsys Admin/User management',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/Alsys Admin/User management', '7ea'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/Alsys Connect/Guide to Mobile Application',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/Alsys Connect/Guide to Mobile Application', 'f42'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/Alsys Connect/Health',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/Alsys Connect/Health', 'a1e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/Alsys Connect/Home',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/Alsys Connect/Home', 'f52'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/Alsys Connect/Induction',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/Alsys Connect/Induction', '468'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/Alsys Connect/Newsfeed',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/Alsys Connect/Newsfeed', '39e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/Alsys Connect/Settings',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/Alsys Connect/Settings', '467'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/Alsys Connect/User Profile',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/Alsys Connect/User Profile', '623'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/Alsys Connect/User Registration',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/Alsys Connect/User Registration', 'fa9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/category/alsys-admin',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/category/alsys-admin', 'a61'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/1.0.0/category/alsys-connect',
+        component: ComponentCreator('/alsys-admin-playbook/1.0.0/category/alsys-connect', '07c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      }
+    ]
+  },
+  {
     path: '/alsys-admin-playbook/next',
-    component: ComponentCreator('/alsys-admin-playbook/next', '7b9'),
+    component: ComponentCreator('/alsys-admin-playbook/next', 'f07'),
     routes: [
       {
         path: '/alsys-admin-playbook/next/',
@@ -178,118 +292,220 @@ export default [
         component: ComponentCreator('/alsys-admin-playbook/next/category/alsys-connect', '8b6'),
         exact: true,
         sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/category/conply-mobile-app',
+        component: ComponentCreator('/alsys-admin-playbook/next/category/conply-mobile-app', '0f9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/category/organization',
+        component: ComponentCreator('/alsys-admin-playbook/next/category/organization', '8f5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/category/using-conply',
+        component: ComponentCreator('/alsys-admin-playbook/next/category/using-conply', '9aa'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/Conply Mobile App/Home',
+        component: ComponentCreator('/alsys-admin-playbook/next/Conply Mobile App/Home', 'b65'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/Conply Mobile App/Onboarding',
+        component: ComponentCreator('/alsys-admin-playbook/next/Conply Mobile App/Onboarding', '80d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/Conply Mobile App/Profile',
+        component: ComponentCreator('/alsys-admin-playbook/next/Conply Mobile App/Profile', 'e95'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/Conply Mobile App/Users',
+        component: ComponentCreator('/alsys-admin-playbook/next/Conply Mobile App/Users', '677'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/Using Conply/Creating an Account',
+        component: ComponentCreator('/alsys-admin-playbook/next/Using Conply/Creating an Account', '435'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/Using Conply/Dashboard',
+        component: ComponentCreator('/alsys-admin-playbook/next/Using Conply/Dashboard', 'edc'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/Using Conply/FAQ',
+        component: ComponentCreator('/alsys-admin-playbook/next/Using Conply/FAQ', 'd76'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/Using Conply/Get Support',
+        component: ComponentCreator('/alsys-admin-playbook/next/Using Conply/Get Support', 'd9f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/Using Conply/Health',
+        component: ComponentCreator('/alsys-admin-playbook/next/Using Conply/Health', '6a1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/Using Conply/Induction',
+        component: ComponentCreator('/alsys-admin-playbook/next/Using Conply/Induction', '292'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/Using Conply/Newsfeed',
+        component: ComponentCreator('/alsys-admin-playbook/next/Using Conply/Newsfeed', 'af0'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/Using Conply/Organization/Setting up Account',
+        component: ComponentCreator('/alsys-admin-playbook/next/Using Conply/Organization/Setting up Account', '413'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/Using Conply/Time & Attendance',
+        component: ComponentCreator('/alsys-admin-playbook/next/Using Conply/Time & Attendance', '39b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/alsys-admin-playbook/next/Using Conply/User management',
+        component: ComponentCreator('/alsys-admin-playbook/next/Using Conply/User management', '879'),
+        exact: true,
+        sidebar: "tutorialSidebar"
       }
     ]
   },
   {
     path: '/alsys-admin-playbook/',
-    component: ComponentCreator('/alsys-admin-playbook/', '428'),
+    component: ComponentCreator('/alsys-admin-playbook/', '5d2'),
     routes: [
       {
         path: '/alsys-admin-playbook/',
-        component: ComponentCreator('/alsys-admin-playbook/', 'c98'),
+        component: ComponentCreator('/alsys-admin-playbook/', 'e53'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/Alsys Admin/Guide to Alsys Admin application',
-        component: ComponentCreator('/alsys-admin-playbook/Alsys Admin/Guide to Alsys Admin application', 'a97'),
+        path: '/alsys-admin-playbook/category/conply-mobile-app',
+        component: ComponentCreator('/alsys-admin-playbook/category/conply-mobile-app', 'cbc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/Alsys Admin/Health',
-        component: ComponentCreator('/alsys-admin-playbook/Alsys Admin/Health', '5fb'),
+        path: '/alsys-admin-playbook/category/organization',
+        component: ComponentCreator('/alsys-admin-playbook/category/organization', '67d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/Alsys Admin/Induction',
-        component: ComponentCreator('/alsys-admin-playbook/Alsys Admin/Induction', 'd86'),
+        path: '/alsys-admin-playbook/category/using-conply',
+        component: ComponentCreator('/alsys-admin-playbook/category/using-conply', 'f79'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/Alsys Admin/Newsfeed',
-        component: ComponentCreator('/alsys-admin-playbook/Alsys Admin/Newsfeed', '93c'),
+        path: '/alsys-admin-playbook/Conply Mobile App/Home',
+        component: ComponentCreator('/alsys-admin-playbook/Conply Mobile App/Home', 'c89'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/Alsys Admin/Organization',
-        component: ComponentCreator('/alsys-admin-playbook/Alsys Admin/Organization', 'ab6'),
+        path: '/alsys-admin-playbook/Conply Mobile App/Onboarding',
+        component: ComponentCreator('/alsys-admin-playbook/Conply Mobile App/Onboarding', '223'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/Alsys Admin/Time & Attendance',
-        component: ComponentCreator('/alsys-admin-playbook/Alsys Admin/Time & Attendance', 'cc4'),
+        path: '/alsys-admin-playbook/Conply Mobile App/Profile',
+        component: ComponentCreator('/alsys-admin-playbook/Conply Mobile App/Profile', '761'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/Alsys Admin/User management',
-        component: ComponentCreator('/alsys-admin-playbook/Alsys Admin/User management', 'e3b'),
+        path: '/alsys-admin-playbook/Conply Mobile App/Users',
+        component: ComponentCreator('/alsys-admin-playbook/Conply Mobile App/Users', '3ac'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/Alsys Connect/Guide to Mobile Application',
-        component: ComponentCreator('/alsys-admin-playbook/Alsys Connect/Guide to Mobile Application', '68e'),
+        path: '/alsys-admin-playbook/Using Conply/Creating an Account',
+        component: ComponentCreator('/alsys-admin-playbook/Using Conply/Creating an Account', '537'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/Alsys Connect/Health',
-        component: ComponentCreator('/alsys-admin-playbook/Alsys Connect/Health', 'f8a'),
+        path: '/alsys-admin-playbook/Using Conply/Dashboard',
+        component: ComponentCreator('/alsys-admin-playbook/Using Conply/Dashboard', '119'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/Alsys Connect/Home',
-        component: ComponentCreator('/alsys-admin-playbook/Alsys Connect/Home', 'feb'),
+        path: '/alsys-admin-playbook/Using Conply/FAQ',
+        component: ComponentCreator('/alsys-admin-playbook/Using Conply/FAQ', 'e59'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/Alsys Connect/Induction',
-        component: ComponentCreator('/alsys-admin-playbook/Alsys Connect/Induction', '151'),
+        path: '/alsys-admin-playbook/Using Conply/Get Support',
+        component: ComponentCreator('/alsys-admin-playbook/Using Conply/Get Support', '486'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/Alsys Connect/Newsfeed',
-        component: ComponentCreator('/alsys-admin-playbook/Alsys Connect/Newsfeed', 'd94'),
+        path: '/alsys-admin-playbook/Using Conply/Health',
+        component: ComponentCreator('/alsys-admin-playbook/Using Conply/Health', '662'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/Alsys Connect/Settings',
-        component: ComponentCreator('/alsys-admin-playbook/Alsys Connect/Settings', '4b3'),
+        path: '/alsys-admin-playbook/Using Conply/Induction',
+        component: ComponentCreator('/alsys-admin-playbook/Using Conply/Induction', '0a9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/Alsys Connect/User Profile',
-        component: ComponentCreator('/alsys-admin-playbook/Alsys Connect/User Profile', '744'),
+        path: '/alsys-admin-playbook/Using Conply/Newsfeed',
+        component: ComponentCreator('/alsys-admin-playbook/Using Conply/Newsfeed', '9fd'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/Alsys Connect/User Registration',
-        component: ComponentCreator('/alsys-admin-playbook/Alsys Connect/User Registration', 'f45'),
+        path: '/alsys-admin-playbook/Using Conply/Organization/Setting up Account',
+        component: ComponentCreator('/alsys-admin-playbook/Using Conply/Organization/Setting up Account', '1dd'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/category/alsys-admin',
-        component: ComponentCreator('/alsys-admin-playbook/category/alsys-admin', '8da'),
+        path: '/alsys-admin-playbook/Using Conply/Time & Attendance',
+        component: ComponentCreator('/alsys-admin-playbook/Using Conply/Time & Attendance', '8d0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/alsys-admin-playbook/category/alsys-connect',
-        component: ComponentCreator('/alsys-admin-playbook/category/alsys-connect', 'fcd'),
+        path: '/alsys-admin-playbook/Using Conply/User management',
+        component: ComponentCreator('/alsys-admin-playbook/Using Conply/User management', '3fb'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

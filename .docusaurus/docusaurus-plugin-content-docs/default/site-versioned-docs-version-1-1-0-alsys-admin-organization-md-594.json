@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Alsys Admin/Organization",
+  "id": "version-1.1.0/Alsys Admin/Organization",
+  "title": "Organization",
+  "description": "What is an organization",
+  "source": "@site/versioned_docs/version-1.1.0/Alsys Admin/Organization.md",
+  "sourceDirName": "Alsys Admin",
+  "slug": "/Alsys Admin/Organization",
+  "permalink": "/alsys-admin-playbook/Alsys Admin/Organization",
+  "draft": false,
+  "tags": [],
+  "version": "1.1.0",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Time & Attendance",
+    "permalink": "/alsys-admin-playbook/Alsys Admin/Time & Attendance"
+  },
+  "next": {
+    "title": "Using Conply",
+    "permalink": "/alsys-admin-playbook/category/using-conply"
+  }
+}

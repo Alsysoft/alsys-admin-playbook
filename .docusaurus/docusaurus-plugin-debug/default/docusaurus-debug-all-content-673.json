@@ -142,8 +142,8 @@
                 "permalink": "/alsys-admin-playbook/next/Alsys Admin/Time & Attendance"
               },
               "next": {
-                "title": "Alsys Connect",
-                "permalink": "/alsys-admin-playbook/next/category/alsys-connect"
+                "title": "Using Conply",
+                "permalink": "/alsys-admin-playbook/next/category/using-conply"
               }
             },
             {
@@ -348,6 +348,10 @@
               "previous": {
                 "title": "Newsfeed",
                 "permalink": "/alsys-admin-playbook/next/Alsys Connect/Newsfeed"
+              },
+              "next": {
+                "title": "Conply Mobile App",
+                "permalink": "/alsys-admin-playbook/next/category/conply-mobile-app"
               }
             },
             {
@@ -403,10 +407,110 @@
               }
             },
             {
+              "unversionedId": "Conply Mobile App/Home",
+              "id": "Conply Mobile App/Home",
+              "title": "Home",
+              "description": "Quick Overview",
+              "source": "@site/docs/Conply Mobile App/Home.md",
+              "sourceDirName": "Conply Mobile App",
+              "slug": "/Conply Mobile App/Home",
+              "permalink": "/alsys-admin-playbook/next/Conply Mobile App/Home",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Onboarding",
+                "permalink": "/alsys-admin-playbook/next/Conply Mobile App/Onboarding"
+              },
+              "next": {
+                "title": "Profile",
+                "permalink": "/alsys-admin-playbook/next/Conply Mobile App/Profile"
+              }
+            },
+            {
+              "unversionedId": "Conply Mobile App/Onboarding",
+              "id": "Conply Mobile App/Onboarding",
+              "title": "Onboarding",
+              "description": "Introduction",
+              "source": "@site/docs/Conply Mobile App/Onboarding.md",
+              "sourceDirName": "Conply Mobile App",
+              "slug": "/Conply Mobile App/Onboarding",
+              "permalink": "/alsys-admin-playbook/next/Conply Mobile App/Onboarding",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Conply Mobile App",
+                "permalink": "/alsys-admin-playbook/next/category/conply-mobile-app"
+              },
+              "next": {
+                "title": "Home",
+                "permalink": "/alsys-admin-playbook/next/Conply Mobile App/Home"
+              }
+            },
+            {
+              "unversionedId": "Conply Mobile App/Profile",
+              "id": "Conply Mobile App/Profile",
+              "title": "Profile",
+              "description": "Your Identity",
+              "source": "@site/docs/Conply Mobile App/Profile.md",
+              "sourceDirName": "Conply Mobile App",
+              "slug": "/Conply Mobile App/Profile",
+              "permalink": "/alsys-admin-playbook/next/Conply Mobile App/Profile",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Home",
+                "permalink": "/alsys-admin-playbook/next/Conply Mobile App/Home"
+              },
+              "next": {
+                "title": "Users",
+                "permalink": "/alsys-admin-playbook/next/Conply Mobile App/Users"
+              }
+            },
+            {
+              "unversionedId": "Conply Mobile App/Users",
+              "id": "Conply Mobile App/Users",
+              "title": "Users",
+              "description": "The following features are accessible only for admin accounts on the Conply Mobile App. Normal users will not have access to these functionalities.",
+              "source": "@site/docs/Conply Mobile App/Users.md",
+              "sourceDirName": "Conply Mobile App",
+              "slug": "/Conply Mobile App/Users",
+              "permalink": "/alsys-admin-playbook/next/Conply Mobile App/Users",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Profile",
+                "permalink": "/alsys-admin-playbook/next/Conply Mobile App/Profile"
+              }
+            },
+            {
               "unversionedId": "intro",
               "id": "intro",
               "title": "Introduction",
-              "description": "Remote Onboarding,",
+              "description": "Welcome to the Conply User Guide",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/",
@@ -425,6 +529,266 @@
               "next": {
                 "title": "Alsys Admin",
                 "permalink": "/alsys-admin-playbook/next/category/alsys-admin"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Creating an Account",
+              "id": "Using Conply/Creating an Account",
+              "title": "Creating an Account",
+              "description": "Getting Started with Conply",
+              "source": "@site/docs/Using Conply/Creating an Account.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Creating an Account",
+              "permalink": "/alsys-admin-playbook/next/Using Conply/Creating an Account",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Using Conply",
+                "permalink": "/alsys-admin-playbook/next/category/using-conply"
+              },
+              "next": {
+                "title": "Organization",
+                "permalink": "/alsys-admin-playbook/next/category/organization"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Dashboard",
+              "id": "Using Conply/Dashboard",
+              "title": "Dashboard",
+              "description": "Dashboard Overview",
+              "source": "@site/docs/Using Conply/Dashboard.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Dashboard",
+              "permalink": "/alsys-admin-playbook/next/Using Conply/Dashboard",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Setting up Account",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/Organization/Setting up Account"
+              },
+              "next": {
+                "title": "User management",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/User management"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/FAQ",
+              "id": "Using Conply/FAQ",
+              "title": "FAQ",
+              "description": "How do I download the app on my mobile device?",
+              "source": "@site/docs/Using Conply/FAQ.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/FAQ",
+              "permalink": "/alsys-admin-playbook/next/Using Conply/FAQ",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Induction",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/Induction"
+              },
+              "next": {
+                "title": "Get Support",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/Get Support"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Get Support",
+              "id": "Using Conply/Get Support",
+              "title": "Get Support",
+              "description": "Our dedicated support team is here to help you every step of the way. To get started, follow the link below to access our effective help desk, where you can easily create tickets for your specific issues.",
+              "source": "@site/docs/Using Conply/Get Support.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Get Support",
+              "permalink": "/alsys-admin-playbook/next/Using Conply/Get Support",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "FAQ",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/FAQ"
+              },
+              "next": {
+                "title": "Alsys Connect",
+                "permalink": "/alsys-admin-playbook/next/category/alsys-connect"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Health",
+              "id": "Using Conply/Health",
+              "title": "Health",
+              "description": "Setting Up the Health Section for Onboarding",
+              "source": "@site/docs/Using Conply/Health.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Health",
+              "permalink": "/alsys-admin-playbook/next/Using Conply/Health",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Time & Attendance",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/Time & Attendance"
+              },
+              "next": {
+                "title": "Induction",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/Induction"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Induction",
+              "id": "Using Conply/Induction",
+              "title": "Induction",
+              "description": "Inductions in the application can be categorized into General and Specific, each serving a distinct purpose.",
+              "source": "@site/docs/Using Conply/Induction.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Induction",
+              "permalink": "/alsys-admin-playbook/next/Using Conply/Induction",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Health",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/Health"
+              },
+              "next": {
+                "title": "FAQ",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/FAQ"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Newsfeed",
+              "id": "Using Conply/Newsfeed",
+              "title": "Newsfeed",
+              "description": "Introduction",
+              "source": "@site/docs/Using Conply/Newsfeed.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Newsfeed",
+              "permalink": "/alsys-admin-playbook/next/Using Conply/Newsfeed",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "User management",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/User management"
+              },
+              "next": {
+                "title": "Time & Attendance",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/Time & Attendance"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Organization/Setting up Account",
+              "id": "Using Conply/Organization/Setting up Account",
+              "title": "Setting up Account",
+              "description": "No setup needed for now.",
+              "source": "@site/docs/Using Conply/Organization/Setting up Account.md",
+              "sourceDirName": "Using Conply/Organization",
+              "slug": "/Using Conply/Organization/Setting up Account",
+              "permalink": "/alsys-admin-playbook/next/Using Conply/Organization/Setting up Account",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Organization",
+                "permalink": "/alsys-admin-playbook/next/category/organization"
+              },
+              "next": {
+                "title": "Dashboard",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/Dashboard"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Time & Attendance",
+              "id": "Using Conply/Time & Attendance",
+              "title": "Time & Attendance",
+              "description": "Time & Attendance",
+              "source": "@site/docs/Using Conply/Time & Attendance.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Time & Attendance",
+              "permalink": "/alsys-admin-playbook/next/Using Conply/Time & Attendance",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Newsfeed",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/Newsfeed"
+              },
+              "next": {
+                "title": "Health",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/Health"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/User management",
+              "id": "Using Conply/User management",
+              "title": "User management",
+              "description": "How to use the platform to effectively manage your users.",
+              "source": "@site/docs/Using Conply/User management.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/User management",
+              "permalink": "/alsys-admin-playbook/next/Using Conply/User management",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Dashboard",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/Dashboard"
+              },
+              "next": {
+                "title": "Newsfeed",
+                "permalink": "/alsys-admin-playbook/next/Using Conply/Newsfeed"
               }
             }
           ],
@@ -479,6 +843,73 @@
               },
               {
                 "type": "category",
+                "label": "Using Conply",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/Creating an Account"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Organization",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Using Conply/Organization/Setting up Account"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "description",
+                      "slug": "/category/organization",
+                      "permalink": "/alsys-admin-playbook/next/category/organization"
+                    }
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/Dashboard"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/User management"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/Newsfeed"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/Time & Attendance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/Health"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/Induction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/FAQ"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Using Conply/Get Support"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/using-conply",
+                  "permalink": "/alsys-admin-playbook/next/category/using-conply"
+                }
+              },
+              {
+                "type": "category",
                 "label": "Alsys Connect",
                 "collapsible": true,
                 "collapsed": true,
@@ -522,6 +953,542 @@
                   "slug": "/category/alsys-connect",
                   "permalink": "/alsys-admin-playbook/next/category/alsys-connect"
                 }
+              },
+              {
+                "type": "category",
+                "label": "Conply Mobile App",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Conply Mobile App/Onboarding"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Conply Mobile App/Home"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Conply Mobile App/Profile"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Conply Mobile App/Users"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/conply-mobile-app",
+                  "permalink": "/alsys-admin-playbook/next/category/conply-mobile-app"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "versionName": "1.1.0",
+          "label": "1.1.0",
+          "banner": null,
+          "badge": true,
+          "noIndex": false,
+          "className": "docs-version-1.1.0",
+          "path": "/alsys-admin-playbook/",
+          "tagsPath": "/alsys-admin-playbook/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/versioned_sidebars/version-1.1.0-sidebars.json",
+          "contentPath": "/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/versioned_docs/version-1.1.0",
+          "contentPathLocalized": "/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/i18n/en/docusaurus-plugin-content-docs/version-1.1.0",
+          "docs": [
+            {
+              "unversionedId": "Conply Mobile App/Home",
+              "id": "version-1.1.0/Conply Mobile App/Home",
+              "title": "Home",
+              "description": "Quick Overview",
+              "source": "@site/versioned_docs/version-1.1.0/Conply Mobile App/Home.md",
+              "sourceDirName": "Conply Mobile App",
+              "slug": "/Conply Mobile App/Home",
+              "permalink": "/alsys-admin-playbook/Conply Mobile App/Home",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Onboarding",
+                "permalink": "/alsys-admin-playbook/Conply Mobile App/Onboarding"
+              },
+              "next": {
+                "title": "Profile",
+                "permalink": "/alsys-admin-playbook/Conply Mobile App/Profile"
+              }
+            },
+            {
+              "unversionedId": "Conply Mobile App/Onboarding",
+              "id": "version-1.1.0/Conply Mobile App/Onboarding",
+              "title": "Onboarding",
+              "description": "Introduction",
+              "source": "@site/versioned_docs/version-1.1.0/Conply Mobile App/Onboarding.md",
+              "sourceDirName": "Conply Mobile App",
+              "slug": "/Conply Mobile App/Onboarding",
+              "permalink": "/alsys-admin-playbook/Conply Mobile App/Onboarding",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Conply Mobile App",
+                "permalink": "/alsys-admin-playbook/category/conply-mobile-app"
+              },
+              "next": {
+                "title": "Home",
+                "permalink": "/alsys-admin-playbook/Conply Mobile App/Home"
+              }
+            },
+            {
+              "unversionedId": "Conply Mobile App/Profile",
+              "id": "version-1.1.0/Conply Mobile App/Profile",
+              "title": "Profile",
+              "description": "Your Identity",
+              "source": "@site/versioned_docs/version-1.1.0/Conply Mobile App/Profile.md",
+              "sourceDirName": "Conply Mobile App",
+              "slug": "/Conply Mobile App/Profile",
+              "permalink": "/alsys-admin-playbook/Conply Mobile App/Profile",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Home",
+                "permalink": "/alsys-admin-playbook/Conply Mobile App/Home"
+              },
+              "next": {
+                "title": "Users",
+                "permalink": "/alsys-admin-playbook/Conply Mobile App/Users"
+              }
+            },
+            {
+              "unversionedId": "Conply Mobile App/Users",
+              "id": "version-1.1.0/Conply Mobile App/Users",
+              "title": "Users",
+              "description": "The following features are accessible only for admin accounts on the Conply Mobile App. Normal users will not have access to these functionalities.",
+              "source": "@site/versioned_docs/version-1.1.0/Conply Mobile App/Users.md",
+              "sourceDirName": "Conply Mobile App",
+              "slug": "/Conply Mobile App/Users",
+              "permalink": "/alsys-admin-playbook/Conply Mobile App/Users",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Profile",
+                "permalink": "/alsys-admin-playbook/Conply Mobile App/Profile"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "version-1.1.0/intro",
+              "title": "Introduction",
+              "description": "Welcome to the Conply User Guide",
+              "source": "@site/versioned_docs/version-1.1.0/intro.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/alsys-admin-playbook/",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 0,
+              "frontMatter": {
+                "sidebar_position": 0,
+                "hide_table_of_contents": false,
+                "title": "Introduction",
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Using Conply",
+                "permalink": "/alsys-admin-playbook/category/using-conply"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Creating an Account",
+              "id": "version-1.1.0/Using Conply/Creating an Account",
+              "title": "Creating an Account",
+              "description": "Getting Started with Conply",
+              "source": "@site/versioned_docs/version-1.1.0/Using Conply/Creating an Account.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Creating an Account",
+              "permalink": "/alsys-admin-playbook/Using Conply/Creating an Account",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Using Conply",
+                "permalink": "/alsys-admin-playbook/category/using-conply"
+              },
+              "next": {
+                "title": "Organization",
+                "permalink": "/alsys-admin-playbook/category/organization"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Dashboard",
+              "id": "version-1.1.0/Using Conply/Dashboard",
+              "title": "Dashboard",
+              "description": "Dashboard Overview",
+              "source": "@site/versioned_docs/version-1.1.0/Using Conply/Dashboard.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Dashboard",
+              "permalink": "/alsys-admin-playbook/Using Conply/Dashboard",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Setting up Account",
+                "permalink": "/alsys-admin-playbook/Using Conply/Organization/Setting up Account"
+              },
+              "next": {
+                "title": "User management",
+                "permalink": "/alsys-admin-playbook/Using Conply/User management"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/FAQ",
+              "id": "version-1.1.0/Using Conply/FAQ",
+              "title": "FAQ",
+              "description": "How do I download the app on my mobile device?",
+              "source": "@site/versioned_docs/version-1.1.0/Using Conply/FAQ.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/FAQ",
+              "permalink": "/alsys-admin-playbook/Using Conply/FAQ",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 9,
+              "frontMatter": {
+                "sidebar_position": 9
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Induction",
+                "permalink": "/alsys-admin-playbook/Using Conply/Induction"
+              },
+              "next": {
+                "title": "Get Support",
+                "permalink": "/alsys-admin-playbook/Using Conply/Get Support"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Get Support",
+              "id": "version-1.1.0/Using Conply/Get Support",
+              "title": "Get Support",
+              "description": "Our dedicated support team is here to help you every step of the way. To get started, follow the link below to access our effective help desk, where you can easily create tickets for your specific issues.",
+              "source": "@site/versioned_docs/version-1.1.0/Using Conply/Get Support.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Get Support",
+              "permalink": "/alsys-admin-playbook/Using Conply/Get Support",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "FAQ",
+                "permalink": "/alsys-admin-playbook/Using Conply/FAQ"
+              },
+              "next": {
+                "title": "Conply Mobile App",
+                "permalink": "/alsys-admin-playbook/category/conply-mobile-app"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Health",
+              "id": "version-1.1.0/Using Conply/Health",
+              "title": "Health",
+              "description": "Setting Up the Health Section for Onboarding",
+              "source": "@site/versioned_docs/version-1.1.0/Using Conply/Health.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Health",
+              "permalink": "/alsys-admin-playbook/Using Conply/Health",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Time & Attendance",
+                "permalink": "/alsys-admin-playbook/Using Conply/Time & Attendance"
+              },
+              "next": {
+                "title": "Induction",
+                "permalink": "/alsys-admin-playbook/Using Conply/Induction"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Induction",
+              "id": "version-1.1.0/Using Conply/Induction",
+              "title": "Induction",
+              "description": "Inductions in the application can be categorized into General and Specific, each serving a distinct purpose.",
+              "source": "@site/versioned_docs/version-1.1.0/Using Conply/Induction.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Induction",
+              "permalink": "/alsys-admin-playbook/Using Conply/Induction",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Health",
+                "permalink": "/alsys-admin-playbook/Using Conply/Health"
+              },
+              "next": {
+                "title": "FAQ",
+                "permalink": "/alsys-admin-playbook/Using Conply/FAQ"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Newsfeed",
+              "id": "version-1.1.0/Using Conply/Newsfeed",
+              "title": "Newsfeed",
+              "description": "Introduction",
+              "source": "@site/versioned_docs/version-1.1.0/Using Conply/Newsfeed.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Newsfeed",
+              "permalink": "/alsys-admin-playbook/Using Conply/Newsfeed",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "User management",
+                "permalink": "/alsys-admin-playbook/Using Conply/User management"
+              },
+              "next": {
+                "title": "Time & Attendance",
+                "permalink": "/alsys-admin-playbook/Using Conply/Time & Attendance"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Organization/Setting up Account",
+              "id": "version-1.1.0/Using Conply/Organization/Setting up Account",
+              "title": "Setting up Account",
+              "description": "No setup needed for now.",
+              "source": "@site/versioned_docs/version-1.1.0/Using Conply/Organization/Setting up Account.md",
+              "sourceDirName": "Using Conply/Organization",
+              "slug": "/Using Conply/Organization/Setting up Account",
+              "permalink": "/alsys-admin-playbook/Using Conply/Organization/Setting up Account",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Organization",
+                "permalink": "/alsys-admin-playbook/category/organization"
+              },
+              "next": {
+                "title": "Dashboard",
+                "permalink": "/alsys-admin-playbook/Using Conply/Dashboard"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/Time & Attendance",
+              "id": "version-1.1.0/Using Conply/Time & Attendance",
+              "title": "Time & Attendance",
+              "description": "Time & Attendance",
+              "source": "@site/versioned_docs/version-1.1.0/Using Conply/Time & Attendance.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/Time & Attendance",
+              "permalink": "/alsys-admin-playbook/Using Conply/Time & Attendance",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Newsfeed",
+                "permalink": "/alsys-admin-playbook/Using Conply/Newsfeed"
+              },
+              "next": {
+                "title": "Health",
+                "permalink": "/alsys-admin-playbook/Using Conply/Health"
+              }
+            },
+            {
+              "unversionedId": "Using Conply/User management",
+              "id": "version-1.1.0/Using Conply/User management",
+              "title": "User management",
+              "description": "How to use the platform to effectively manage your users.",
+              "source": "@site/versioned_docs/version-1.1.0/Using Conply/User management.md",
+              "sourceDirName": "Using Conply",
+              "slug": "/Using Conply/User management",
+              "permalink": "/alsys-admin-playbook/Using Conply/User management",
+              "draft": false,
+              "tags": [],
+              "version": "1.1.0",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Dashboard",
+                "permalink": "/alsys-admin-playbook/Using Conply/Dashboard"
+              },
+              "next": {
+                "title": "Newsfeed",
+                "permalink": "/alsys-admin-playbook/Using Conply/Newsfeed"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "version-1.1.0/intro"
+              },
+              {
+                "type": "category",
+                "label": "Using Conply",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-1.1.0/Using Conply/Creating an Account"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Organization",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "version-1.1.0/Using Conply/Organization/Setting up Account"
+                      }
+                    ],
+                    "link": {
+                      "type": "generated-index",
+                      "description": "description",
+                      "slug": "/category/organization",
+                      "permalink": "/alsys-admin-playbook/category/organization"
+                    }
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-1.1.0/Using Conply/Dashboard"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-1.1.0/Using Conply/User management"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-1.1.0/Using Conply/Newsfeed"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-1.1.0/Using Conply/Time & Attendance"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-1.1.0/Using Conply/Health"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-1.1.0/Using Conply/Induction"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-1.1.0/Using Conply/FAQ"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-1.1.0/Using Conply/Get Support"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/using-conply",
+                  "permalink": "/alsys-admin-playbook/category/using-conply"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Conply Mobile App",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "version-1.1.0/Conply Mobile App/Onboarding"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-1.1.0/Conply Mobile App/Home"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-1.1.0/Conply Mobile App/Profile"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "version-1.1.0/Conply Mobile App/Users"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/conply-mobile-app",
+                  "permalink": "/alsys-admin-playbook/category/conply-mobile-app"
+                }
               }
             ]
           }
@@ -529,14 +1496,13 @@
         {
           "versionName": "1.0.0",
           "label": "1.0.0",
-          "banner": null,
+          "banner": "unmaintained",
           "badge": true,
           "noIndex": false,
           "className": "docs-version-1.0.0",
-          "path": "/alsys-admin-playbook/",
-          "tagsPath": "/alsys-admin-playbook/tags",
-          "isLast": true,
-          "routePriority": -1,
+          "path": "/alsys-admin-playbook/1.0.0",
+          "tagsPath": "/alsys-admin-playbook/1.0.0/tags",
+          "isLast": false,
           "sidebarFilePath": "/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/versioned_sidebars/version-1.0.0-sidebars.json",
           "contentPath": "/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/versioned_docs/version-1.0.0",
           "contentPathLocalized": "/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/i18n/en/docusaurus-plugin-content-docs/version-1.0.0",
@@ -549,7 +1515,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Guide to Alsys Admin application.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Guide to Alsys Admin application",
-              "permalink": "/alsys-admin-playbook/Alsys Admin/Guide to Alsys Admin application",
+              "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Guide to Alsys Admin application",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -560,11 +1526,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Alsys Admin",
-                "permalink": "/alsys-admin-playbook/category/alsys-admin"
+                "permalink": "/alsys-admin-playbook/1.0.0/category/alsys-admin"
               },
               "next": {
                 "title": "User management",
-                "permalink": "/alsys-admin-playbook/Alsys Admin/User management"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/User management"
               }
             },
             {
@@ -575,7 +1541,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Health.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Health",
-              "permalink": "/alsys-admin-playbook/Alsys Admin/Health",
+              "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Health",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -586,11 +1552,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "User management",
-                "permalink": "/alsys-admin-playbook/Alsys Admin/User management"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/User management"
               },
               "next": {
                 "title": "Newsfeed",
-                "permalink": "/alsys-admin-playbook/Alsys Admin/Newsfeed"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Newsfeed"
               }
             },
             {
@@ -601,7 +1567,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Induction.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Induction",
-              "permalink": "/alsys-admin-playbook/Alsys Admin/Induction",
+              "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Induction",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -612,11 +1578,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Newsfeed",
-                "permalink": "/alsys-admin-playbook/Alsys Admin/Newsfeed"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Newsfeed"
               },
               "next": {
                 "title": "Time & Attendance",
-                "permalink": "/alsys-admin-playbook/Alsys Admin/Time & Attendance"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Time & Attendance"
               }
             },
             {
@@ -627,7 +1593,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Newsfeed.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Newsfeed",
-              "permalink": "/alsys-admin-playbook/Alsys Admin/Newsfeed",
+              "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Newsfeed",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -638,11 +1604,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Health",
-                "permalink": "/alsys-admin-playbook/Alsys Admin/Health"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Health"
               },
               "next": {
                 "title": "Induction",
-                "permalink": "/alsys-admin-playbook/Alsys Admin/Induction"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Induction"
               }
             },
             {
@@ -653,7 +1619,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Organization.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Organization",
-              "permalink": "/alsys-admin-playbook/Alsys Admin/Organization",
+              "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Organization",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -664,11 +1630,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Time & Attendance",
-                "permalink": "/alsys-admin-playbook/Alsys Admin/Time & Attendance"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Time & Attendance"
               },
               "next": {
                 "title": "Alsys Connect",
-                "permalink": "/alsys-admin-playbook/category/alsys-connect"
+                "permalink": "/alsys-admin-playbook/1.0.0/category/alsys-connect"
               }
             },
             {
@@ -679,7 +1645,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/Time & Attendance.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/Time & Attendance",
-              "permalink": "/alsys-admin-playbook/Alsys Admin/Time & Attendance",
+              "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Time & Attendance",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -690,11 +1656,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Induction",
-                "permalink": "/alsys-admin-playbook/Alsys Admin/Induction"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Induction"
               },
               "next": {
                 "title": "Organization",
-                "permalink": "/alsys-admin-playbook/Alsys Admin/Organization"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Organization"
               }
             },
             {
@@ -705,7 +1671,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Admin/User management.md",
               "sourceDirName": "Alsys Admin",
               "slug": "/Alsys Admin/User management",
-              "permalink": "/alsys-admin-playbook/Alsys Admin/User management",
+              "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/User management",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -716,11 +1682,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Guide to Alsys Admin application",
-                "permalink": "/alsys-admin-playbook/Alsys Admin/Guide to Alsys Admin application"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Guide to Alsys Admin application"
               },
               "next": {
                 "title": "Health",
-                "permalink": "/alsys-admin-playbook/Alsys Admin/Health"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Admin/Health"
               }
             },
             {
@@ -731,7 +1697,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/Guide to Mobile Application.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Guide to Mobile Application",
-              "permalink": "/alsys-admin-playbook/Alsys Connect/Guide to Mobile Application",
+              "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Guide to Mobile Application",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -742,11 +1708,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Alsys Connect",
-                "permalink": "/alsys-admin-playbook/category/alsys-connect"
+                "permalink": "/alsys-admin-playbook/1.0.0/category/alsys-connect"
               },
               "next": {
                 "title": "User Registration",
-                "permalink": "/alsys-admin-playbook/Alsys Connect/User Registration"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/User Registration"
               }
             },
             {
@@ -757,7 +1723,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/Health.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Health",
-              "permalink": "/alsys-admin-playbook/Alsys Connect/Health",
+              "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Health",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -768,11 +1734,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Home",
-                "permalink": "/alsys-admin-playbook/Alsys Connect/Home"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Home"
               },
               "next": {
                 "title": "Induction",
-                "permalink": "/alsys-admin-playbook/Alsys Connect/Induction"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Induction"
               }
             },
             {
@@ -783,7 +1749,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/Home.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Home",
-              "permalink": "/alsys-admin-playbook/Alsys Connect/Home",
+              "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Home",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -794,11 +1760,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "User Profile",
-                "permalink": "/alsys-admin-playbook/Alsys Connect/User Profile"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/User Profile"
               },
               "next": {
                 "title": "Health",
-                "permalink": "/alsys-admin-playbook/Alsys Connect/Health"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Health"
               }
             },
             {
@@ -809,7 +1775,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/Induction.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Induction",
-              "permalink": "/alsys-admin-playbook/Alsys Connect/Induction",
+              "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Induction",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -820,11 +1786,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Health",
-                "permalink": "/alsys-admin-playbook/Alsys Connect/Health"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Health"
               },
               "next": {
                 "title": "Newsfeed",
-                "permalink": "/alsys-admin-playbook/Alsys Connect/Newsfeed"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Newsfeed"
               }
             },
             {
@@ -835,7 +1801,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/Newsfeed.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Newsfeed",
-              "permalink": "/alsys-admin-playbook/Alsys Connect/Newsfeed",
+              "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Newsfeed",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -846,11 +1812,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Induction",
-                "permalink": "/alsys-admin-playbook/Alsys Connect/Induction"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Induction"
               },
               "next": {
                 "title": "Settings",
-                "permalink": "/alsys-admin-playbook/Alsys Connect/Settings"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Settings"
               }
             },
             {
@@ -861,7 +1827,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/Settings.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/Settings",
-              "permalink": "/alsys-admin-playbook/Alsys Connect/Settings",
+              "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Settings",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -872,7 +1838,7 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Newsfeed",
-                "permalink": "/alsys-admin-playbook/Alsys Connect/Newsfeed"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Newsfeed"
               }
             },
             {
@@ -883,7 +1849,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/User Profile.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/User Profile",
-              "permalink": "/alsys-admin-playbook/Alsys Connect/User Profile",
+              "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/User Profile",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -894,11 +1860,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "User Registration",
-                "permalink": "/alsys-admin-playbook/Alsys Connect/User Registration"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/User Registration"
               },
               "next": {
                 "title": "Home",
-                "permalink": "/alsys-admin-playbook/Alsys Connect/Home"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Home"
               }
             },
             {
@@ -909,7 +1875,7 @@
               "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/User Registration.md",
               "sourceDirName": "Alsys Connect",
               "slug": "/Alsys Connect/User Registration",
-              "permalink": "/alsys-admin-playbook/Alsys Connect/User Registration",
+              "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/User Registration",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -920,11 +1886,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Guide to Mobile Application",
-                "permalink": "/alsys-admin-playbook/Alsys Connect/Guide to Mobile Application"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Guide to Mobile Application"
               },
               "next": {
                 "title": "User Profile",
-                "permalink": "/alsys-admin-playbook/Alsys Connect/User Profile"
+                "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/User Profile"
               }
             },
             {
@@ -935,7 +1901,7 @@
               "source": "@site/versioned_docs/version-1.0.0/intro.md",
               "sourceDirName": ".",
               "slug": "/",
-              "permalink": "/alsys-admin-playbook/",
+              "permalink": "/alsys-admin-playbook/1.0.0/",
               "draft": false,
               "tags": [],
               "version": "1.0.0",
@@ -949,7 +1915,7 @@
               "sidebar": "tutorialSidebar",
               "next": {
                 "title": "Alsys Admin",
-                "permalink": "/alsys-admin-playbook/category/alsys-admin"
+                "permalink": "/alsys-admin-playbook/1.0.0/category/alsys-admin"
               }
             }
           ],
@@ -998,7 +1964,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/alsys-admin",
-                  "permalink": "/alsys-admin-playbook/category/alsys-admin"
+                  "permalink": "/alsys-admin-playbook/1.0.0/category/alsys-admin"
                 }
               },
               {
@@ -1043,7 +2009,7 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/alsys-connect",
-                  "permalink": "/alsys-admin-playbook/category/alsys-connect"
+                  "permalink": "/alsys-admin-playbook/1.0.0/category/alsys-connect"
                 }
               }
             ]

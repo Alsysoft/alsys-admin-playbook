@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-1.0.0/Alsys Connect/User Profile.md",
   "sourceDirName": "Alsys Connect",
   "slug": "/Alsys Connect/User Profile",
-  "permalink": "/alsys-admin-playbook/Alsys Connect/User Profile",
+  "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/User Profile",
   "draft": false,
   "tags": [],
   "version": "1.0.0",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "User Registration",
-    "permalink": "/alsys-admin-playbook/Alsys Connect/User Registration"
+    "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/User Registration"
   },
   "next": {
     "title": "Home",
-    "permalink": "/alsys-admin-playbook/Alsys Connect/Home"
+    "permalink": "/alsys-admin-playbook/1.0.0/Alsys Connect/Home"
   }
 }

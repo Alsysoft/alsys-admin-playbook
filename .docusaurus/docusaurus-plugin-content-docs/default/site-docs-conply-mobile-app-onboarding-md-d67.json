@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Conply Mobile App/Onboarding",
+  "id": "Conply Mobile App/Onboarding",
+  "title": "Onboarding",
+  "description": "Introduction",
+  "source": "@site/docs/Conply Mobile App/Onboarding.md",
+  "sourceDirName": "Conply Mobile App",
+  "slug": "/Conply Mobile App/Onboarding",
+  "permalink": "/alsys-admin-playbook/next/Conply Mobile App/Onboarding",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Conply Mobile App",
+    "permalink": "/alsys-admin-playbook/next/category/conply-mobile-app"
+  },
+  "next": {
+    "title": "Home",
+    "permalink": "/alsys-admin-playbook/next/Conply Mobile App/Home"
+  }
+}

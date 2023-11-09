@@ -1,0 +1,16 @@
+{
+  "title": "Organisation",
+  "description": "description",
+  "slug": "/category/organisation",
+  "permalink": "/alsys-admin-playbook/category/organisation",
+  "navigation": {
+    "previous": {
+      "title": "Using Conply",
+      "permalink": "/alsys-admin-playbook/category/using-conply"
+    },
+    "next": {
+      "title": "Setting up Account",
+      "permalink": "/alsys-admin-playbook/Using Conply/Organization/Setting up Account"
+    }
+  }
+}
