@@ -16,9 +16,18 @@ import conply_mobile_login from '/Users/tehciaktm/Documents/GitHub/alsys_admin_c
 
 <img align="center" src={conply_mobile_login} alt="conply_mobile_login" width="300" />
 
+<br/>
+<br/>
+
+:::tip
+
+* You can copy the password and paste it directly into the Mobile App to login faster
+
+:::
+
 <h3>Identification</h3>
 
-<p>Start by entering essential personal information — your full name, current address, a valid phone number and so on. This information not only creates a secure profile but also aids your organization in seamlessly identifying you within the system.</p>
+<p>Start by illing in any required personal details such as your full name, contact information, and address. Be sure to review and confirm the accuracy of the information. This information not only creates a secure profile but also aids your organization in seamlessly identifying you within the system.</p>
 
 import conply_mobile_identification from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/conply_mobile_identification.png';
 
@@ -39,9 +48,19 @@ import conply_mobile_card from '/Users/tehciaktm/Documents/GitHub/alsys_admin_ca
 * Emergency Contact: Easily input emergency contact details for quick response.
 * Health Status: Answer a set of questions to determine work compatibility. This step unlocks upon completion of both subsections.
 
+
 import conply_mobile_health from '/Users/tehciaktm/Documents/GitHub/alsys_admin_cards/static/img/conply_mobile_health.png';
 
 <img align="center" src={conply_mobile_health} alt="conply_mobile_health" width="300" />
+
+<br/>
+<br/>
+
+:::info
+
+* Carefully read and answer the health questions provided in the questionnaire. Ensure that your responses are accurate and complete.
+
+:::
 
 <h3>Induction</h3>
 
@@ -54,6 +73,17 @@ import conply_mobile_induction_quiz from '/Users/tehciaktm/Documents/GitHub/alsy
 
 <img align="center" src={conply_mobile_induction_quiz} alt="conply_mobile_induction_quiz" width="300" />
 
+<br/>
+<br/>
+
+:::info
+
+* The video provides important information about company policies, safety procedures, and other essential details.
+* If you answer all the questions correctly, you'll receive a confirmation that you've successfully completed the induction.
+* If you answer any questions incorrectly, you will be prompted to watch the video again and start the induction from the beginning.
+
+:::
+
 <h3>Biometric Registration</h3>
 
 <p>This is the final step and ensures secure site access through biometric registration.</p>
@@ -65,5 +95,19 @@ import conply_mobile_biometrics from '/Users/tehciaktm/Documents/GitHub/alsys_ad
 <img align="center" src={conply_mobile_biometrics} alt="conply_mobile_biometrics" width="300" />
 
 <br/>
+<br/>
+
+:::warning
+
+The app will prompt you to grant camera access. Accept this request.
+
+:::
+
+:::info
+
+* Your device's camera will turn on, and you'll be asked to position your face within a frame displayed on the screen.
+* When your face is correctly framed, Position your face within the frame, and when you're ready to capture your facial biometrics, press the "Capture" button.
+
+:::
 
 <h4>Welcome aboard!</h4>

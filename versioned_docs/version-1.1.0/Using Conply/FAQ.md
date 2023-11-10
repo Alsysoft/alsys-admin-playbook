@@ -17,6 +17,15 @@ import TabItem from '@theme/TabItem';
   </div>
 </details>
     <details>
+  <summary>What is the minimum version required for Conply on Android devices?</summary>
+  <div>
+    <div>
+    <p>Supported devices:</p>
+    <p>Conply for iOS requires a device running iOS 14.0 or later. Conply for Android requires a device running Android 9.0 and up. Any other mobile operating system that is not the standard version of Android OS is not officially supported; your device may run into compatibility issues with the mobile app.</p>
+    </div>
+  </div>
+</details>
+    <details>
   <summary>Can I download the app from the app stores directly?</summary>
   <div>
     <div>Yes, you can also download the app directly from the Google Play Store (Android) and the App Store (iOS) by searching for the app and clicking "Install" or "Get."</div>
